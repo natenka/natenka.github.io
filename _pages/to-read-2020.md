@@ -75,4 +75,5 @@ category:
 32. [Collapse: How Societies Choose to Fail or Succeed](https://www.amazon.com/Collapse-Societies-Choose-Fail-Succeed/dp/B00P2QCN2U/) (A)
 33. [My Life and Work (The Autobiography of Henry Ford)](https://www.amazon.com/My-Life-Work-Henry-Ford-ebook/dp/B06Y3KZ8YP/) (?)
 34. [The Mamba Mentality: How I Play](https://www.amazon.com/gp/product/B07DC3WRKT/) (K)
+35. [Twisteddoodles – The Newborn Identity](https://www.amazon.com/gp/product/1848272588/)
 
