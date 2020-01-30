@@ -20,7 +20,7 @@ category:
 7. ["The Great Gatsby"  by F. Scott Fitzgerald](https://www.amazon.com/gp/product/0743273567/)
 8. ["Charlotte's Web"  by E.B. White](https://www.amazon.com/gp/product/0061124958/)
 9. ["The Hobbit"  by J.R.R. Tolkien](https://www.amazon.com/gp/product/054792822X/)
-10. ["Little Women"  by Louisa May Alcott](https://www.amazon.com/gp/product/0147514010/)
+10. [~~"Little Women"  by Louisa May Alcott~~](https://www.amazon.com/gp/product/0147514010/)
 11. [~~"Fahrenheit 451"  by Ray Bradbury~~](https://www.amazon.com/gp/product/1451673310/)
 12. ["Jane Eyre"  by Charlotte Bronte](https://www.amazon.com/gp/product/1503278190/)
 13. ["Animal Farm"  by George Orwell](https://www.amazon.com/gp/product/1503138615/)
