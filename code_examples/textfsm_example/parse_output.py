@@ -13,9 +13,7 @@ with open(template) as f, open(output_file) as output:
     print(tabulate(result, headers=header), end='\n\n')
 
 # create dict
-results = []
-for row in result:
-    results.append(dict(zip(header, row)))
+results = [dict(zip(header, row)) for row in result]
 pprint(results)
 
 '''

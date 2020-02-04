@@ -1,0 +1,14 @@
+Value chassis_id_subtype (\D+)
+Value chassis_id (.+)
+Value system_name (.+)
+Value system_description (.+)
+Value List mgmt_ip (\S+)
+Value List capability (.+)
+
+
+Start
+  ^ +ChassisID: +${chassis_id_subtype} ${chassis_id}
+  ^ +SysName: +${system_name}
+  ^ +SysDescr: +${system_description}
+  ^ +MgmtIP: +${mgmt_ip}
+  ^ +Capability: +${capability}
