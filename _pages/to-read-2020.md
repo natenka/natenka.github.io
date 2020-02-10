@@ -15,7 +15,7 @@ category:
 
 ## Технические книги
 
-1. [Practices of the Python Pro](https://www.amazon.com/Practices-Python-Pro-Dane-Hillard/dp/1617296082/) (K from Manning or P)
+1. [~~Practices of the Python Pro~~](https://www.amazon.com/Practices-Python-Pro-Dane-Hillard/dp/1617296082/) (K from Manning or P)
 2. [Using Asyncio in Python](https://www.amazon.com/Using-Asyncio-Python-Understanding-Asynchronous/dp/1492075337/) (ORL)
 3. [Effective Python 2nd Edition](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134853989/) (P or ORL)
 4. [Effective PyCharm](https://www.amazon.com/Effective-PyCharm-Hands-Approach-Treading/dp/1095212532/) (K)
@@ -75,5 +75,5 @@ category:
 32. [Collapse: How Societies Choose to Fail or Succeed](https://www.amazon.com/Collapse-Societies-Choose-Fail-Succeed/dp/B00P2QCN2U/) (A)
 33. [My Life and Work (The Autobiography of Henry Ford)](https://www.amazon.com/My-Life-Work-Henry-Ford-ebook/dp/B06Y3KZ8YP/) (?)
 34. [The Mamba Mentality: How I Play](https://www.amazon.com/gp/product/B07DC3WRKT/) (K)
-35. [Twisteddoodles – The Newborn Identity](https://www.amazon.com/gp/product/1848272588/)
+35. [~~Twisteddoodles – The Newborn Identity~~](https://www.amazon.com/gp/product/1848272588/)
 
