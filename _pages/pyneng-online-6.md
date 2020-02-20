@@ -31,7 +31,7 @@ share: true
 * Теоретический материал начитывается в дни, которые указаны в расписании.
 * Теория рассматривается блоками по 2-4 часа.
 * В промежутках между лекциями выполняются домашние задания.
-* Всё общение во время курса происходит в [slack](https://pyneng-slack.herokuapp.com/)
+* Всё общение во время курса происходит в [slack](https://join.slack.com/t/pyneng/shared_invite/enQtNzkyNTYwOTU5Njk5LWE4OGNjMmM1ZTlkNWQ0N2RhODExZDA0OTNhNDJjZDZlOTZhOGRiMzIyZjBhZWYzYzc3MTg3ZmQzODllYmQ4OWU)
 * Для лекций используется [freeconferencecall](https://freeconferencecall.com)
 
 

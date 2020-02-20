@@ -241,7 +241,6 @@ share: true
 
 ## Отзывы слушателей
 
-Несколько отзывов есть в [на сайте курса](https://pyneng.github.io/testimonials/).
+Отзывы можно почитать [на сайте курса](https://pyneng.github.io/testimonials/).
 
-Кроме того, вы можете задать любые вопросы по курсу непосредственно слушателям в [slack сообществе PyNEng](https://pyneng-slack.herokuapp.com/).
 

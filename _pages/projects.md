@@ -11,7 +11,7 @@ share: true
 
 * [Книга "Python 3 для сетевых инженеров"](https://natenka.gitbook.io/pyneng/)
 * [Книга "Python 2.7 для сетевых инженеров"](https://natenka.gitbooks.io/pyneng/content/v/python2.7/)
-* [Сообщество в Slack](https://pyneng-slack.herokuapp.com/)
+* [Сообщество в Slack](https://join.slack.com/t/pyneng/shared_invite/enQtNzkyNTYwOTU5Njk5LWE4OGNjMmM1ZTlkNWQ0N2RhODExZDA0OTNhNDJjZDZlOTZhOGRiMzIyZjBhZWYzYzc3MTg3ZmQzODllYmQ4OWU)
 * [Подборка ресурсов](https://natenka.github.io/pyneng-resources/)
 * [Онлайн курс](/pyneng-online/)
 

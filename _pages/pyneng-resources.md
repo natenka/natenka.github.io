@@ -136,7 +136,7 @@ YouTube каналы:
 ## Slack
 
 * [Network to code](https://networktocode.herokuapp.com/) - отличное сообщество в slack, где обсуждается всё, что касается программирования и автоматизации в сетях
-* [PyNEng](https://pyneng-slack.herokuapp.com/) - русскоязычное сообщество по тем же темам
+* [PyNEng](https://join.slack.com/t/pyneng/shared_invite/enQtNzkyNTYwOTU5Njk5LWE4OGNjMmM1ZTlkNWQ0N2RhODExZDA0OTNhNDJjZDZlOTZhOGRiMzIyZjBhZWYzYzc3MTg3ZmQzODllYmQ4OWU) - русскоязычное сообщество по тем же темам
 
 
 # Ресурсы по Python без привязки к сетевому оборудованию
