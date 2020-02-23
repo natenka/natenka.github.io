@@ -77,4 +77,5 @@ category:
 34. [The Mamba Mentality: How I Play](https://www.amazon.com/gp/product/B07DC3WRKT/) (K)
 35. [~~Twisteddoodles – The Newborn Identity~~](https://www.amazon.com/gp/product/1848272588/)
 36. [Technical Blogging, 2nd Edition](https://www.amazon.com/Technical-Blogging-Amplify-Your-Influence/dp/1680506471/) (ORL)
+37. [~~Whistleblower: My Journey to Silicon Valley and Fight for Justice at Uber~~](https://www.amazon.com/gp/product/B07T8TDM8S/) (A)
 
