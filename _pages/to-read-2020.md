@@ -13,7 +13,7 @@ category:
 * A - Audible
 * ? - не покупала
 
-## Технические книги
+## Технические книги (2/12)
 
 1. [~~Practices of the Python Pro~~](https://www.amazon.com/Practices-Python-Pro-Dane-Hillard/dp/1617296082/) (K from Manning or P)
 2. [Using Asyncio in Python](https://www.amazon.com/Using-Asyncio-Python-Understanding-Asynchronous/dp/1492075337/) (ORL)
@@ -28,7 +28,7 @@ category:
 11. [The Python Journeyman](https://leanpub.com/python-journeyman) (K)
 12. [The Python Master](https://leanpub.com/python-master) (K)
 
-## На немецком
+## На немецком (1/8)
 
 1. [Gute Geister](https://www.amazon.com/Gute-Geister-German-Kathryn-Stockett-ebook/dp/B004YHUBN6/) (A)
 2. [Der Marsianer](https://www.amazon.com/Marsianer-Roman-German-Andy-Weir-ebook/dp/B00KG5VKK8/) (A)
@@ -39,7 +39,7 @@ category:
 7. [20.000 Meilen unter dem Meer](https://www.audible.com/pd/20000-Meilen-unter-dem-Meer-Audiobook/B00TVNWZ00) (A)
 8. [Shoe Dog](https://www.audible.com/pd/Shoe-Dog-Audiobook/3960923945) (A)
 
-## Всё остальное
+## Всё остальное (6/37)
 
 1. [The Body: A Guide for Occupants](https://www.amazon.com/Body-Guide-Occupants-Bill-Bryson-ebook/dp/B07MCVWXDK/) (A)
 2. [~~The Song of Achilles~~](https://www.amazon.com/Song-Achilles-Madeline-Miller-ebook/dp/B005FPWUSA/) (A)
