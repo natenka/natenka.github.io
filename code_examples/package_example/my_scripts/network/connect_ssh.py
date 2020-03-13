@@ -1,7 +1,9 @@
 from netmiko import ConnectHandler
+from my_scripts import log
 
 
 def send_show_command(device, command):
+    log.debug("Подключаюсь к output['host']")
     with ConnectHandler(**device) as ssh:
         ssh.enable()
         result = ssh.send_command(command)
