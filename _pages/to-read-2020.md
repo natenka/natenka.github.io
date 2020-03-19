@@ -20,7 +20,7 @@ category:
 * A - Audible
 * ? - не покупала
 
-## Технические книги (2/12)
+## Технические книги (3/12)
 
 1. [~~Practices of the Python Pro~~](https://www.amazon.com/Practices-Python-Pro-Dane-Hillard/dp/1617296082/) (K from Manning or P)
 2. [Using Asyncio in Python](https://www.amazon.com/Using-Asyncio-Python-Understanding-Asynchronous/dp/1492075337/) (ORL)
@@ -31,7 +31,7 @@ category:
 7. [~~tmux 2~~](https://www.amazon.com/tmux-2-Productive-Mouse-Free-Development-ebook/dp/B01N9HBR3D/) (K)
 8. [Practical Vim](https://www.amazon.com/Practical-Vim-Edit-Speed-Thought-ebook/dp/B018T6ZVPK/) (K)
 9. [Eloquent JavaScript, 3rd Edition](https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507/) (P)
-10. [The Python Apprentice](https://leanpub.com/python-apprentice) (K)
+10. [~~The Python Apprentice~~](https://leanpub.com/python-apprentice) (K)
 11. [The Python Journeyman](https://leanpub.com/python-journeyman) (K)
 12. [The Python Master](https://leanpub.com/python-master) (K)
 
@@ -46,7 +46,7 @@ category:
 7. [20.000 Meilen unter dem Meer](https://www.audible.com/pd/20000-Meilen-unter-dem-Meer-Audiobook/B00TVNWZ00) (A)
 8. [Shoe Dog](https://www.audible.com/pd/Shoe-Dog-Audiobook/3960923945) (A)
 
-## Всё остальное (6/37)
+## Всё остальное (7/37)
 
 1. [The Body: A Guide for Occupants](https://www.amazon.com/Body-Guide-Occupants-Bill-Bryson-ebook/dp/B07MCVWXDK/) (A)
 2. [~~The Song of Achilles~~](https://www.amazon.com/Song-Achilles-Madeline-Miller-ebook/dp/B005FPWUSA/) (A)
@@ -61,7 +61,7 @@ category:
 11. [The Obstacle Is the Way](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph-ebook/dp/B00G3L1B8K/) (K)
 12. [Behave: The Biology of Humans at Our Best and Worst](https://www.amazon.com/Behave-Biology-Humans-Best-Worst-ebook/dp/B01A7YX4TW/) (K)
 13. [~~May I Have Your Attention Please?~~](https://www.amazon.com/May-Have-Your-Attention-Please-ebook/dp/B005LBXRB2/) (A)
-14. [Genghis Khan and the Making of the Modern World](https://www.amazon.com/Genghis-Khan-Making-Modern-World-ebook/dp/B000FCK206/) (A)
+14. [~~Genghis Khan and the Making of the Modern World~~](https://www.amazon.com/Genghis-Khan-Making-Modern-World-ebook/dp/B000FCK206/) (A)
 15. [Outliers: The Story of Success](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell-ebook/dp/B00FOR2FKW/) (A or K)
 16. [Where Am I Now?](https://www.amazon.com/Where-Am-Now-Girlhood-Accidental-ebook/dp/B01CFC66X0/) (A)
 17. [Educated](https://www.amazon.com/Educated-international-bestselling-Tara-Westover-ebook/dp/B07142R12X/) (K)

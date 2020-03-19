@@ -14,6 +14,13 @@ main:
   #   url: /collection-archive/
   #- title: "Sitemap"
   #  url: /sitemap/
+    #  - title: Интересные ссылки
+    #      - title: Видео, выступления
+    #        url: /links/video
+    #      - title: Статьи
+    #        url: /links/articles
+    #      - title: Книги
+    #        url: /links/books
 links:
   - title: Python для сетевых инженеров
     children:
