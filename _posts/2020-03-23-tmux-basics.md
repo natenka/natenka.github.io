@@ -9,8 +9,8 @@ category:
 
 Запись лекции по tmux:
 
-* https://youtu.be/alqoL8cSADY
-* https://youtu.be/U9NiafWbW6s
+* [Часть 1](https://youtu.be/alqoL8cSADY)
+* [Часть 2](https://youtu.be/U9NiafWbW6s)
 
 [Примеры, конфигурации из лекции](https://github.com/pyneng/pyneng-bonus-lectures/tree/master/examples/03_tmux)
 
