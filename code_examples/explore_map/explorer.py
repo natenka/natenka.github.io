@@ -63,10 +63,10 @@ def topology_bfs(start_device, params):
 
 if __name__ == "__main__":
     common_params = {
-        'device_type': 'cisco_ios',
-        'password': 'cisco',
-        'secret': 'cisco',
-        'username': 'cisco'
+        "device_type": "cisco_ios",
+        "password": "cisco",
+        "secret": "cisco",
+        "username": "cisco",
     }
     with open("devices.yaml") as f:
         devices = yaml.safe_load(f)
@@ -74,4 +74,3 @@ if __name__ == "__main__":
     start = "192.168.100.1"
     topology = topology_bfs(start, params=common_params)
     pprint(topology)
-
