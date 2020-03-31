@@ -10,17 +10,6 @@ from netmiko import (
 )
 
 
-visited_hosts = set()
-failed_hosts_error_map = {}
-params = {
-    'device_type': 'cisco_ios',
-    'password': 'cisco',
-    'secret': 'cisco',
-    'username': 'cisco'
-}
-total = {}
-
-
 def parse_cdp(output):
     regex = (
         r"IP address: (?P<ip>\S+)\n"
@@ -40,7 +29,9 @@ def parse_cdp(output):
     return result
 
 
-def connect_ssh(params, command):
+def connect_ssh(params, command, verbose=True):
+    if verbose:
+        print("Connect...", params)
     try:
         with ConnectHandler(**params) as ssh:
             ssh.enable()
@@ -50,26 +41,37 @@ def connect_ssh(params, command):
         print(error)
 
 
-def topology_bfs(start_device):
+def topology_bfs(start_device, params):
+    visited_hosts = set()
+    topology = {}
     q = Queue()
     q.put(start_device)
+
     while q.qsize() > 0:
         current = q.get()
         params["host"] = current
+        if current in visited_hosts:
+            continue
         connections = parse_cdp(connect_ssh(params, "sh cdp neig det"))
-        total[current] = connections
+        topology[current] = connections
         for neighbor, n_data in connections.items():
             if neighbor not in visited_hosts:
                 q.put(neighbor)
         visited_hosts.add(current)
+    return topology
 
 
 if __name__ == "__main__":
+    common_params = {
+        'device_type': 'cisco_ios',
+        'password': 'cisco',
+        'secret': 'cisco',
+        'username': 'cisco'
+    }
     with open("devices.yaml") as f:
         devices = yaml.safe_load(f)
 
-    #for device in devices:
-    #    pprint(parse_cdp(connect_ssh(device, "sh cdp neig det")))
-    topology_bfs("192.168.100.1")
-    print(visited_hosts)
-    pprint(total)
+    start = "192.168.100.1"
+    topology = topology_bfs(start, params=common_params)
+    pprint(topology)
+
