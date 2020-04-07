@@ -22,6 +22,7 @@ def routers_connection():
         "password": "cisco",
         "secret": "cisco",
         "device_type": "cisco_ios",
+        "fast_cli": True,
     }
     connections = {}
     for ip in routers:

@@ -12,8 +12,7 @@ with open("devices.yaml") as f:
 def routers_from_devices_yaml():
     with open("devices.yaml") as f:
         devices = yaml.safe_load(f)
-        # options = {"timeout": 5, "fast_cli": True}
-        options = {"timeout": 5}
+        options = {"timeout": 5, "fast_cli": True}
         for device in devices:
             device.update(options)
     return devices
