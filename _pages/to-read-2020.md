@@ -70,7 +70,7 @@ category:
 20. [Whiskey in a Teacup](https://www.amazon.com/Whiskey-Teacup-Reese-Witherspoon-ebook/dp/B07CRLZBRC/) (K)
 21. [Michael Jordan: The Life](https://www.amazon.com/Michael-Jordan-Life-Roland-Lazenby/dp/0316194778/) (P)
 22. [Einstein: His Life and Universe](https://www.amazon.com/Einstein-Life-Universe-Walter-Isaacson/dp/0743264746/) (P)
-23. [The Rise and Fall of the Dinosaurs](https://www.amazon.com/Rise-Fall-Dinosaurs-History-Their/dp/0062490435/) (P)
+23. [~~The Rise and Fall of the Dinosaurs~~](https://www.amazon.com/Rise-Fall-Dinosaurs-History-Their/dp/0062490435/) (P, A)
 24. [Neverwhere](https://www.amazon.com/Neverwhere-Authors-Preferred-Neil-Gaiman/dp/0062459082/) (P)
 25. [On Writing](https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816/) (P)
 26. [The Rational Optimist](https://www.amazon.com/Rational-Optimist-Prosperity-Evolves-P-s-ebook/dp/B003QP4BJM/) (K)
