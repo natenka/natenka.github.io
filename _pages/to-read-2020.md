@@ -46,7 +46,7 @@ category:
 7. [20.000 Meilen unter dem Meer](https://www.audible.com/pd/20000-Meilen-unter-dem-Meer-Audiobook/B00TVNWZ00) (A)
 8. [Shoe Dog](https://www.audible.com/pd/Shoe-Dog-Audiobook/3960923945) (A)
 
-## Всё остальное (7/37)
+## Всё остальное (9/37)
 
 1. [The Body: A Guide for Occupants](https://www.amazon.com/Body-Guide-Occupants-Bill-Bryson-ebook/dp/B07MCVWXDK/) (A)
 2. [~~The Song of Achilles~~](https://www.amazon.com/Song-Achilles-Madeline-Miller-ebook/dp/B005FPWUSA/) (A)
@@ -81,7 +81,7 @@ category:
 31. [~~Little Women~~](https://www.amazon.com/Little-Women-Louisa-May-Alcott-ebook/dp/B07QKDJP87/) (A)
 32. [Collapse: How Societies Choose to Fail or Succeed](https://www.amazon.com/Collapse-Societies-Choose-Fail-Succeed/dp/B00P2QCN2U/) (A)
 33. [My Life and Work (The Autobiography of Henry Ford)](https://www.amazon.com/My-Life-Work-Henry-Ford-ebook/dp/B06Y3KZ8YP/) (?)
-34. [The Mamba Mentality: How I Play](https://www.amazon.com/gp/product/B07DC3WRKT/) (K)
+34. [~~The Mamba Mentality: How I Play~~](https://www.amazon.com/gp/product/B07DC3WRKT/) (K)
 35. [~~Twisteddoodles – The Newborn Identity~~](https://www.amazon.com/gp/product/1848272588/)
 36. [Technical Blogging, 2nd Edition](https://www.amazon.com/Technical-Blogging-Amplify-Your-Influence/dp/1680506471/) (ORL)
 37. [~~Whistleblower: My Journey to Silicon Valley and Fight for Justice at Uber~~](https://www.amazon.com/gp/product/B07T8TDM8S/) (A)
