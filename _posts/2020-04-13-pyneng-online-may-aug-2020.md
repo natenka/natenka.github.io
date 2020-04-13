@@ -1,0 +1,23 @@
+---
+title: "PyNEng Online: 16.05.20 - 22.08.20"
+date: 2020-04-13
+tags:
+ - pyneng-online
+ - pyneng
+category:
+ - pyneng
+---
+
+<img align="center" src="https://raw.githubusercontent.com/natenka/natenka.github.io/master/assets/images/pyneng8.png" width="200">
+
+
+## Объявляется набор на курс "Python для сетевых инженеров"
+
+Курс начинается 16.05.20 и идет до 22.08.20
+
+15 недель, 24 лекции, 60 часов теории, 100 домашних заданий, Python 3.8.
+
+Подробнее на [странице курса](https://natenka.github.io/pyneng-online/)
+
+
+> Для записи на курс пишите мне на email, который указан на странице курса.
