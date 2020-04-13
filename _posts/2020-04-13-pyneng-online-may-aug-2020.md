@@ -8,7 +8,7 @@ category:
  - pyneng
 ---
 
-<img align="center" src="https://raw.githubusercontent.com/natenka/natenka.github.io/master/assets/images/pyneng8.png" width="200">
+<img align="center" src="https://raw.githubusercontent.com/natenka/natenka.github.io/master/assets/images/pyneng8.png" width="400">
 
 
 ## Объявляется набор на курс "Python для сетевых инженеров"
