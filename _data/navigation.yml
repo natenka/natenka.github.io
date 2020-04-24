@@ -24,8 +24,8 @@ main:
 links:
   - title: Python для сетевых инженеров
     children:
-      - title: PyNEng Book
-        url: https://pyneng.readthedocs.io/ru/latest/
+      - title: Книга Python для сетевых инженеров
+        url: /pyneng-book/
       - title: Сообщество в Slack
         url: https://join.slack.com/t/pyneng/shared_invite/enQtNzkyNTYwOTU5Njk5LWE4OGNjMmM1ZTlkNWQ0N2RhODExZDA0OTNhNDJjZDZlOTZhOGRiMzIyZjBhZWYzYzc3MTg3ZmQzODllYmQ4OWU
       - title: Подборка ресурсов
