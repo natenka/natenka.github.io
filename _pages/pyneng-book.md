@@ -17,3 +17,8 @@ share: true
 * [Продолжение обучения по моим лекциям](https://www.youtube.com/playlist?list=PLah0HUih_ZRmiZjBaTcECszqlRM8LlahR)
 * [Другие ресурсы](https://natenka.github.io/pyneng-resources/)
 * [Задачки PyBites](https://codechalleng.es/bites/)
+
+## Оставить отзыв
+
+Если у Вас есть желание оставить отзыв, можно сделать это в комментариях на этой странице.
+После я перенесу [отзыв в книгу](https://pyneng.readthedocs.io/ru/latest/testimonials.html).
