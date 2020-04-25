@@ -9,13 +9,12 @@ category:
 
 Запись лекции по tmux:
 
-* [Часть 1](https://youtu.be/alqoL8cSADY)
-* [Часть 2](https://youtu.be/U9NiafWbW6s)
-
-[Примеры, конфигурации из лекции](https://github.com/pyneng/pyneng-bonus-lectures/tree/master/examples/03_tmux)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLah0HUih_ZRkSAPJyzlk_wU7iVLzGFMAi" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Ссылки
+
+[Примеры, конфигурации из лекции](https://github.com/pyneng/pyneng-bonus-lectures/tree/master/examples/03_tmux)
 
 * [docs](https://github.com/tmux/tmux/wiki/Getting-Started)
 * [Tmux Cheat Sheet & Quick Reference](http://tmuxcheatsheet.com/)
