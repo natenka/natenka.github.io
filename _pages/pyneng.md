@@ -21,10 +21,27 @@ __Python для сетевых инженеров (PyNEng)__ - это курс �
 > - Python for Network Engineers
 > - Python for Network Engineers next generation :)
 
+## Основные ссылки
+
+* [Книга "Python для сетевых инженеров"](https://pyneng.readthedocs.io/ru/latest/)
+* [Задания и примеры из книги](https://github.com/natenka/pyneng-examples-exercises)
+* [Запись лекций](https://www.youtube.com/playlist?list=PLah0HUih_ZRnJFNdZsWr2pNWgYETauGXo)
+
+
+## Что делать после книги/курса
+
+* [Продолжение обучения по моим лекциям](https://www.youtube.com/playlist?list=PLah0HUih_ZRmiZjBaTcECszqlRM8LlahR)
+* [Другие ресурсы](https://natenka.github.io/pyneng-resources/)
+* [Задачки PyBites](https://codechalleng.es/bites/)
+
+
 ### Книга
 
 Книга опубликована на readthedocs: [Python для сетевых инженеров](https://pyneng.readthedocs.io/ru/latest/).
 
+### Онлайн курс
+
+Я также читаю [онлайн курс](https://natenka.github.io/pyneng-online/) по темам книги.
 
 ### Статьи
 
@@ -38,7 +55,4 @@ __Python для сетевых инженеров (PyNEng)__ - это курс �
 
 Так как по теме "Python для сетевых инженеров" достаточно много материалов, курсов и другой информации, я сделала [подборку ресурсов](https://natenka.github.io/pyneng-resources/) в которой перечислены полезные ссылки.
 
-### Онлайн курс
-
-Я также читаю [онлайн курс](https://natenka.github.io/pyneng-online/) по темам книги.
 
