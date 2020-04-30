@@ -9,7 +9,7 @@ share: true
 
 [Python для сетевых инженеров](https://natenka.github.io/pyneng/) - это:
 
-* [Книга "Python 3 для сетевых инженеров"](https://natenka.gitbook.io/pyneng/)
+* [Книга "Python для сетевых инженеров"](https://pyneng.readthedocs.io/ru/latest/)
 * [Сообщество в Slack](https://join.slack.com/t/pyneng/shared_invite/enQtNzkyNTYwOTU5Njk5LWE4OGNjMmM1ZTlkNWQ0N2RhODExZDA0OTNhNDJjZDZlOTZhOGRiMzIyZjBhZWYzYzc3MTg3ZmQzODllYmQ4OWU)
 * [Подборка ресурсов](https://natenka.github.io/pyneng-resources/)
 * [Онлайн курс](/pyneng-online/)
@@ -44,8 +44,8 @@ share: true
 ### Статьи
 
 * [Статьи на xgu.ru](http://xgu.ru/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80_%D0%9D%D0%B0%D1%82%D0%B0%D1%88%D0%B0_%D0%A1%D0%B0%D0%BC%D0%BE%D0%B9%D0%BB%D0%B5%D0%BD%D0%BA%D0%BE)
-* [Cisco IOS. Знакомимся ближе. Часть 1](http://nt.ua/aboutcenter/articles/Pages/samoilenko_cisco_ios_2013.aspx)
-* [Джентльменский набор для работы с BGP](http://nt.ua/aboutcenter/articles/Pages/samoilenko_bgp_2013.aspx)
+* [Cisco IOS. Знакомимся ближе. Часть 1](https://natenka.github.io/cisco-ios/)
+* [Джентльменский набор для работы с BGP](https://natenka.github.io/bgp/)
 
 ### Подкасты
 
