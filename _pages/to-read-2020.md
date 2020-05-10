@@ -46,7 +46,7 @@ category:
 7. [20.000 Meilen unter dem Meer](https://www.audible.com/pd/20000-Meilen-unter-dem-Meer-Audiobook/B00TVNWZ00) (A)
 8. [Shoe Dog](https://www.audible.com/pd/Shoe-Dog-Audiobook/3960923945) (A)
 
-## Всё остальное (10/38)
+## Всё остальное (11/38)
 
 1. [The Body: A Guide for Occupants](https://www.amazon.com/Body-Guide-Occupants-Bill-Bryson-ebook/dp/B07MCVWXDK/) (A)
 2. [~~The Song of Achilles~~](https://www.amazon.com/Song-Achilles-Madeline-Miller-ebook/dp/B005FPWUSA/) (A)
@@ -58,7 +58,7 @@ category:
 8. [Tools of Titans](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers-ebook/dp/B01HSMRWNU/) (K)
 9. [Tribe of Mentors](https://www.amazon.com/Tribe-Mentors-Short-Advice-World-ebook/dp/B071KJ7PTB/) (K)
 10. [The 4-Hour Work Week](https://www.amazon.com/4-Hour-Work-Week-Escape-Anywhere-ebook/dp/B006X0M2TS/) (K)
-11. [The Obstacle Is the Way](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph-ebook/dp/B00G3L1B8K/) (K)
+11. [~~The Obstacle Is the Way~~](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph-ebook/dp/B00G3L1B8K/) (K)
 12. [Behave: The Biology of Humans at Our Best and Worst](https://www.amazon.com/Behave-Biology-Humans-Best-Worst-ebook/dp/B01A7YX4TW/) (K)
 13. [~~May I Have Your Attention Please?~~](https://www.amazon.com/May-Have-Your-Attention-Please-ebook/dp/B005LBXRB2/) (A)
 14. [~~Genghis Khan and the Making of the Modern World~~](https://www.amazon.com/Genghis-Khan-Making-Modern-World-ebook/dp/B000FCK206/) (A)
