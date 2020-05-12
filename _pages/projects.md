@@ -13,10 +13,11 @@ share: true
 * [Сообщество в Slack](https://join.slack.com/t/pyneng/shared_invite/enQtNzkyNTYwOTU5Njk5LWE4OGNjMmM1ZTlkNWQ0N2RhODExZDA0OTNhNDJjZDZlOTZhOGRiMzIyZjBhZWYzYzc3MTg3ZmQzODllYmQ4OWU)
 * [Подборка ресурсов](https://natenka.github.io/pyneng-resources/)
 * [Онлайн курс](/pyneng-online/)
+* [Сообщество в Slack где можно задать вопросы](https://join.slack.com/t/pyneng/shared_invite/enQtNzkyNTYwOTU5Njk5LWE4OGNjMmM1ZTlkNWQ0N2RhODExZDA0OTNhNDJjZDZlOTZhOGRiMzIyZjBhZWYzYzc3MTg3ZmQzODllYmQ4OWU)
 
 ## Ansible для сетевых инженеров
 
-Курс ["Ansible для сетевых инженеров"](https://ansible-for-network-engineers.readthedocs.io) ещё в процесе написания.
+Книга ["Ansible для сетевых инженеров"](https://ansible-for-network-engineers.readthedocs.io) ещё в процесе написания.
 
 
 ## Сетевые проекты
