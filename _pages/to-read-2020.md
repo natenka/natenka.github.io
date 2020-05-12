@@ -53,7 +53,7 @@ category:
 3. [~~Atomic Habits~~](https://www.amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B01N5AX61W/) (K or A)
 4. [What Made Maddy Run](https://www.amazon.com/What-Made-Maddy-Run-All-American/dp/0316356522/) (P)
 5. [Why We Sleep](https://www.amazon.com/Why-We-Sleep-Science-Dreams-ebook/dp/B06Y649387/) (A)
-6. [Dear Girls](https://www.amazon.com/Dear-Girls-Intimate-Untold-Secrets-ebook/dp/B07PZ4H1N2/) (A)
+6. [~~Dear Girls~~](https://www.amazon.com/Dear-Girls-Intimate-Untold-Secrets-ebook/dp/B07PZ4H1N2/) (A)
 7. [Permanent Record](https://www.amazon.com/Permanent-Record-Edward-Snowden-ebook/dp/B07STQPGH6/) (?)
 8. [Tools of Titans](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers-ebook/dp/B01HSMRWNU/) (K)
 9. [Tribe of Mentors](https://www.amazon.com/Tribe-Mentors-Short-Advice-World-ebook/dp/B071KJ7PTB/) (K)
