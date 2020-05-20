@@ -131,3 +131,6 @@ __Отчет Toggl__
 * [Evernote](https://evernote.com/)
 * Kindle
 
+### Mandalorian wallpaper :)
+
+К сожалению, он уже не продается там где я покупала, но можно купить [постер с таким же рисунком](https://www.etsy.com/listing/770924055/limited-edition-mando-baby-painted).
