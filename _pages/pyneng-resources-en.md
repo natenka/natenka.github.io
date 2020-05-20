@@ -174,7 +174,6 @@ Intermediate/advanced:
 
 * [Python 3 documentation](https://docs.python.org/3/index.html)
 * [Python Module of the Week](https://pymotw.com/3/index.html)
-* [Tiny-Python-3.6-Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook/blob/master/python.rst) - it is a notebook containing curated examples for Python 3 as well as the new features found in Python 3.6
 
 ## Podcasts
 

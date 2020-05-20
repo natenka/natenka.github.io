@@ -183,7 +183,6 @@ YouTube каналы:
 
 * [Официальная документация Python](https://docs.python.org/3/index.html)
 * [Python Module of the Week](https://pymotw.com/3/index.html)
-* [Tiny-Python-3.6-Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook/blob/master/python.rst) - Отличная шпаргалка по Python 3.6
 
 ## Подкасты
 
