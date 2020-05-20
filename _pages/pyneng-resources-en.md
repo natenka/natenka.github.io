@@ -11,6 +11,8 @@ category:
 toc: true
 ---
 
+# Python for network engineers
+
 ## Blogs
 
 * [Kirk Byers](https://pynet.twb-tech.com/)
@@ -161,20 +163,20 @@ Intermediate/advanced:
 * [Practices of the Python Pro](https://www.amazon.com/gp/product/1617296082/)
 
 
-Challenges:
+## Challenges
 
 * [Bites of Py](https://codechalleng.es/bites/)
 * [HackerRank](https://www.hackerrank.com/)
 * [CheckIO - online game for Python and JavaScript coders](https://checkio.org/)
 
 
-Docs:
+## Docs
 
 * [Python 3 documentation](https://docs.python.org/3/index.html)
 * [Python Module of the Week](https://pymotw.com/3/index.html)
 * [Tiny-Python-3.6-Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook/blob/master/python.rst) - it is a notebook containing curated examples for Python 3 as well as the new features found in Python 3.6
 
-Podcasts:
+## Podcasts
 
 * [Talk Python To Me](https://talkpython.fm/)
 * [Best Python Podcasts](https://www.fullstackpython.com/best-python-podcasts.html)
