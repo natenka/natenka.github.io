@@ -66,7 +66,7 @@ __Так выглядит мой vim__
 
 ### Readthedocs
 
-Книги перевела с Gitbook на Read the Docs. Главная причина - отстутствие PDF на новой версии GitBook.
+Книги перевела с Gitbook на Read the Docs. Главная причина - отстутствие PDF на новой версии GitBook (на тот момент).
 Немного перестроилась и всем довольна.
 
 * [Python для сетевых инженеров](https://pyneng.readthedocs.io/ru/latest/)
