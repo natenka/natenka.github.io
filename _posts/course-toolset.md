@@ -7,18 +7,22 @@ category:
  - tools
 ---
 
-Что я использую для курса:
+## Что я использую для курса
+
+Лекции, запись:
 
 * Лекции [FreeConferenceCall](https://www.freeconferencecall.com/downloads)
 * Запись [OBS](https://obsproject.com/ru), FCC как бекап
 * На youtube заливаю mkv, на google drive mp4, конвертация HandBrake. Avidemux для редактирования
-* Чат [slack](https://slack.com/)
+* Лекции выкладываю на google drive и youtube
 * вопросы во время лекции в slack
 * Таймер [toggle mini timer](http://toggl.com/)
+* Чат [slack](https://slack.com/)
+
+
 * Все выполняю на vm с debian. Часть примеров в ipython, остальное vim + tmux
 * подготовленные виртуалки
 * инструкции дублирующие информацию из лекции
-* Лекции выкладываю на google drive и youtube
 * Микрофон Blue Yeti
 * Сайт курса - Github Pages
 * Задания сдача/проверка git + github
