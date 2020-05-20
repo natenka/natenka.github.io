@@ -118,7 +118,7 @@ __Отчет Toggl__
 
 Из техники отдельного внимания, пожалуй, заслуживает только мышка [Logitech MX ERGO](https://www.logitech.com/en-us/product/mx-ergo-wireless-trackball-mouse).
 
-![alt](https://assets.logitech.com/assets/65275/14/mx-ergo-wireless-trackball.png)
+<img src="https://assets.logitech.com/assets/65275/14/mx-ergo-wireless-trackball.png" width="300">
 
 Какое-то время не могла привыкнуть к ней, потом даже был момент, что решила, что это не мое и использовала обычную. К счастью, обычная мышка сломалась и мне пришлось опять использовать mx ergo, я втянулась и теперь я ей очень довольна.
 
