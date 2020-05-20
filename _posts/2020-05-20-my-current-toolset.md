@@ -116,7 +116,7 @@ __Отчет Toggl__
 
 ### Мышь
 
-Из техники отдельного внимания, пожалуй, заслуживает только мышка [Logitech MX ERGO](https://www.logitech.com/en-us/product/mx-ergo-wireless-trackball-mouse).
+Из техники отдельного внимания, пожалуй, заслуживает только мышка Logitech MX ERGO.
 
 <img src="https://assets.logitech.com/assets/65275/14/mx-ergo-wireless-trackball.png" width="300">
 
