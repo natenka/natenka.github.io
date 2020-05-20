@@ -8,6 +8,7 @@ tags:
  - links
 category:
  - pyneng
+toc: true
 ---
 
 ## Blogs
@@ -21,14 +22,17 @@ category:
 
 ## Courses
 
-### Free courses
+Free courses:
 
 * ['Python for network engineers'. Kirk Byers](https://pynet.twb-tech.com/email-signup.html)
 * [GNS3 Talks. Python Programming for Network Engineers](https://www.youtube.com/playlist?list=PLhfrWIlLOoKPn7T9FtvbOWX8GxgsFFNwn)
 * [Cisco DevNet](https://learninglabs.cisco.com/)
 * [Network programmability basics](https://developer.cisco.com/video/net-prog-basics)
 
-### Paid courses
+Nicholas Russo:
+
+* [Automating Networks with Python](https://www.pluralsight.com/courses/automating-networks-python)
+* [Automating Networks with Ansible the Right Way](https://www.pluralsight.com/courses/automating-networks-ansible-right-way)
 
 Kirk Byers:
 
@@ -73,20 +77,13 @@ Others:
 * [Network Programmability and Automation. Skills for the Next-Generation Network Engineer](http://shop.oreilly.com/product/0636920042082.do)
 * [Network Automation at Scale](https://www.cloudflare.com/media/pdf/network-automation-at-scale.pdf)
 
-## Podcasts
+## Live Stream, Youtube
 
-Packet Pushers:
+* [Network programmability, automation and Python. Dmitry Figol](https://www.twitch.tv/dmfigol)
 
-* [Show 176 – Intro To Python & Automation For Network Engineers](http://packetpushers.net/podcast/podcasts/show-176-intro-to-python-automation-for-network-engineers/)
-* [Show 198 – Kirk Byers On Network Automation With Python & Ansible](http://packetpushers.net/podcast/podcasts/show-198-kirk-byers-network-automation-python-ansible/)
-* [Show 270: Design & Build 9: Automation With Python And Netmiko](http://packetpushers.net/podcast/podcasts/show-270-design-build-9-automation-python-netmiko/)
-* [Show 332: Don’t Believe The Programming Hype](http://packetpushers.net/podcast/podcasts/show-332-dont-believe-programming-hype/)
-* [Show 333: Automation & Orchestration In Networking](http://packetpushers.net/podcast/podcasts/show-333-orchestration-vs-automation/)
-* [PQ Show 99: Netmiko & NAPALM For Network Automation](http://packetpushers.net/podcast/podcasts/pq-show-99-netmiko-napalm-network-automation/)
+YouTube channels:
 
-Sofware Gone Wild:
-
-* [Network automation tools with Jason Edelman](http://blog.ipspace.net/2014/10/network-automation-tools-with-jason.html)
+* [Dmitry Figol](https://www.youtube.com/channel/UCS8yWZCX-fdxft8yFAffZCg)
 
 ## Projects
 
@@ -129,24 +126,40 @@ Sofware Gone Wild:
 * [Python for Network Engineers Resources](https://kontrolissues.net/python-for-network-engineers-resources/)
 * [Awesome Network Programmability](https://github.com/cisco-ie/awesome-network-programmability)
 
-## General Python
+# General Python
 
 * [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
 * [Best Python Resources](https://www.fullstackpython.com/best-python-resources.html)
 * [PEP 8 — the Style Guide for Python Code](http://pep8.org/)
 
 
-Courses:
+## Courses
 
 * [Google's Python Class](https://developers.google.com/edu/python/?csw=1)
 * [MITx - 6.00.1x Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9)
+* [#100DaysOfCode in Python](https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python)
+* [Write Pythonic Code Like a Seasoned Developer](https://training.talkpython.fm/courses/explore_pythonic_code/write-pythonic-code-like-a-seasoned-developer)
 
-Books:
 
-* [A Byte of Python](https://www.gitbook.com/book/swaroopch/byte-of-python/details)
-* [Dive Into Python 3](http://www.diveintopython3.net/index.html)
-* [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
+## Books
+
+Basics:
+
+* [Think Python](https://greenteapress.com/wp/think-python-2e/)
+* [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://www.amazon.com/Python-Crash-Course-Hands-Project-Based-ebook/dp/B018UXJ9RI/)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+
+
+Intermediate/advanced:
+
+* [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features-ebook/dp/B0785Q7GSY)
+* [Effective Python: 59 Specific Ways to Write Better Python (Effective Software Development Series)](https://www.amazon.com/Effective-Python-Specific-Software-Development-ebook-dp-B00TKGY0GU/dp/B00TKGY0GU/)
+* [Dive Into Python 3](http://diveintopython3.problemsolving.io/)
+* [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/static/pythonds/index.html)
+* [Fluent Python](https://www.amazon.com/gp/product/1491946008/)
+* [Python Cookbook](https://www.amazon.com/gp/product/1449340377/)
+* [Practices of the Python Pro](https://www.amazon.com/gp/product/1617296082/)
+
 
 Challenges:
 

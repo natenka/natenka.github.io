@@ -28,14 +28,17 @@ toc: true
 
 ## Курсы
 
-### Бесплатные курсы
+Бесплатные курсы:
 
 * [Бесплатный email курс 'Python for network engineers' от Kirk Byers](https://pynet.twb-tech.com/email-signup.html)
 * [GNS3 Talks. Python Programming for Network Engineers](https://www.youtube.com/playlist?list=PLhfrWIlLOoKPn7T9FtvbOWX8GxgsFFNwn)
 * [Курсы на Cisco DevNet](https://learninglabs.cisco.com/)
 * [Network programmability basics](https://developer.cisco.com/video/net-prog-basics)
 
-### Платные курсы
+Nicholas Russo:
+
+* [Automating Networks with Python](https://www.pluralsight.com/courses/automating-networks-python)
+* [Automating Networks with Ansible the Right Way](https://www.pluralsight.com/courses/automating-networks-ansible-right-way)
 
 Kirk Byers:
 
@@ -89,17 +92,6 @@ YouTube каналы:
 
 * [Dmitry Figol](https://www.youtube.com/channel/UCS8yWZCX-fdxft8yFAffZCg)
 
-## Подкасты
-
-Подкасты отлично подходят для того чтобы вдохновиться автоматизицией.
-
-* [Packet Pushers Show 176 – Intro To Python & Automation For Network Engineers](http://packetpushers.net/podcast/podcasts/show-176-intro-to-python-automation-for-network-engineers/)
-* [Packet Pushers Show 198 – Kirk Byers On Network Automation With Python & Ansible](http://packetpushers.net/podcast/podcasts/show-198-kirk-byers-network-automation-python-ansible/)
-* [Packet Pushers Show 270: Design & Build 9: Automation With Python And Netmiko](http://packetpushers.net/podcast/podcasts/show-270-design-build-9-automation-python-netmiko/)
-* [PQ Show 99: Netmiko & NAPALM For Network Automation](http://packetpushers.net/podcast/podcasts/pq-show-99-netmiko-napalm-network-automation/)
-* [Network automation tools with Jason Edelman on Sofware Gone Wild](http://blog.ipspace.net/2014/10/network-automation-tools-with-jason.html)
-* [Packet Pushers Show 332: Don’t Believe The Programming Hype](http://packetpushers.net/podcast/podcasts/show-332-dont-believe-programming-hype/) - отличный подкаст об автоматизации, программировании, скриптинге и как всё это относится к сетевым инженерам.
-* [Packet Pushers Show 333: Automation & Orchestration In Networking](http://packetpushers.net/podcast/podcasts/show-333-orchestration-vs-automation/)
 
 ## Проекты
 
