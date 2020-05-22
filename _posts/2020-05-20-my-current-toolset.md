@@ -133,4 +133,7 @@ __Отчет Toggl__
 
 ### Mandalorian wallpaper :)
 
-К сожалению, он уже не продается там где я покупала, но можно купить [постер с таким же рисунком](https://www.etsy.com/listing/770924055/limited-edition-mando-baby-painted).
+* [FB Banana Wood](https://www.facebook.com/photo/?fbid=449579392648273&set=a.306255073647373)
+* [Постер с таким же рисунком](https://www.etsy.com/listing/770924055/limited-edition-mando-baby-painted).
+* [Instagram](https://www.instagram.com/bananawoodart/)
+
