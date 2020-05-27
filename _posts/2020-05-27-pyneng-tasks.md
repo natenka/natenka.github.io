@@ -1,5 +1,5 @@
 ---
-title: "Обновление заданий и тестов курса"
+title: "Обновление заданий и тестов книги/курса"
 date: 2020-05-27
 tags:
  - pyneng
@@ -7,6 +7,7 @@ category:
  - pyneng
 ---
 
+В [репозитории](https://github.com/natenka/pyneng-examples-exercises) с заданиями к [курсу](https://www.youtube.com/playlist?list=PLah0HUih_ZRnJFNdZsWr2pNWgYETauGXo)/[книге](https://pyneng.readthedocs.io/) "Python для сетевых инженеров" сделано несколько изменений.
 
 ### Обновление заданий и тестов
 
