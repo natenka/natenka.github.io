@@ -16,7 +16,7 @@ category:
 2. Можно слушать любые другие лекции по основам Python, но при этом делать задания из моего курса/книги.
 
 Очень рекомендую канал [Олега Молчанова](https://www.youtube.com/channel/UCD5_waDcGBhof9xuA1qovTQ).
-А если комфортно слушать лекции на английском, то канал [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
+А если комфортно слушать лекции на английском, то канал [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g).
 Оба очень хорошо рассказывают, видео короткие и по делу.
 Плюс дополнить всё это курсами от [Nicholas Russo](https://www.pluralsight.com/authors/nick-russo) по сетевой автоматизации и, как минимум, все темы моего курса закрыты.
 

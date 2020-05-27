@@ -28,7 +28,7 @@ __Python для сетевых инженеров (PyNEng)__ - это курс �
 * [Запись лекций](https://www.youtube.com/playlist?list=PLah0HUih_ZRnJFNdZsWr2pNWgYETauGXo)
 * [Онлайн курс "Python для сетевых инженеров"](https://natenka.github.io/pyneng-online/)
 * [Сообщество в Slack где можно задать вопросы](https://join.slack.com/t/pyneng/shared_invite/enQtNzkyNTYwOTU5Njk5LWE4OGNjMmM1ZTlkNWQ0N2RhODExZDA0OTNhNDJjZDZlOTZhOGRiMzIyZjBhZWYzYzc3MTg3ZmQzODllYmQ4OWU)
-
+* [Что посмотреть, если мои лекции не подходят по стилю](https://natenka.github.io/pyneng/pyneng-course/)
 
 ## Что делать после книги/курса
 
