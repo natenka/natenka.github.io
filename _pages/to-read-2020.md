@@ -35,9 +35,9 @@ category:
 11. [The Python Journeyman](https://leanpub.com/python-journeyman) (K)
 12. [The Python Master](https://leanpub.com/python-master) (K)
 
-## На немецком (2/8)
+## На немецком (3/8)
 
-1. [Gute Geister](https://www.amazon.com/Gute-Geister-German-Kathryn-Stockett-ebook/dp/B004YHUBN6/) (A)
+1. [~~Gute Geister~~](https://www.amazon.com/Gute-Geister-German-Kathryn-Stockett-ebook/dp/B004YHUBN6/) (A)
 2. [~~Der Marsianer~~](https://www.amazon.com/Marsianer-Roman-German-Andy-Weir-ebook/dp/B00KG5VKK8/) (A)
 3. [~~Ein gutes Omen~~](https://www.amazon.com/Ein-gutes-Omen-v%C3%B6llig-Hexen-Roman-ebook/dp/B009FYS17G/) (A)
 4. [Unverkäuflich!](https://www.amazon.com/Unverk%C3%A4uflich-Schulabbrecher-Fussballprofi-Weltunternehmer-Geschichte-ebook/dp/B0096RJ2G6/) (K)
