@@ -46,7 +46,7 @@ category:
 7. [20.000 Meilen unter dem Meer](https://www.audible.com/pd/20000-Meilen-unter-dem-Meer-Audiobook/B00TVNWZ00) (A)
 8. [Shoe Dog](https://www.audible.com/pd/Shoe-Dog-Audiobook/3960923945) (A)
 9. [~~Die Gefährten. Der Herr der Ringe 1~~](https://www.audible.com/search?keywords=Der+Herr+der+Ringe&ref=a_search_t1_header_search) (A)
-10. [Die zwei Türme. Der Herr der Ringe 2](https://www.audible.com/search?keywords=Der+Herr+der+Ringe&ref=a_search_t1_header_search) (A)
+10. [~~Die zwei Türme. Der Herr der Ringe 2~~](https://www.audible.com/search?keywords=Der+Herr+der+Ringe&ref=a_search_t1_header_search) (A)
 11. [Die Wiederkehr des Königs. Der Herr der Ringe 3](https://www.audible.com/search?keywords=Der+Herr+der+Ringe&ref=a_search_t1_header_search) (A)
 
 ## Всё остальное (12/38)
