@@ -11,7 +11,7 @@ permalink: /thanks/
 
 Мои контакты:
 
-* email: nataliya.samoylenko@gmail.com
+* email: natasha.samoylenko@gmail.com
 * [vk](https://vk.com/natasha_samoylenko)
 * [Facebook](https://www.facebook.com/samoylenko.natasha)
 * [Twitter](https://twitter.com/natenka_says)
