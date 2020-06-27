@@ -35,7 +35,7 @@ category:
 11. [The Python Journeyman](https://leanpub.com/python-journeyman) (K)
 12. [The Python Master](https://leanpub.com/python-master) (K)
 
-## На немецком (4/11)
+## На немецком (5/11)
 
 1. [~~Gute Geister~~](https://www.amazon.com/Gute-Geister-German-Kathryn-Stockett-ebook/dp/B004YHUBN6/) (A)
 2. [~~Der Marsianer~~](https://www.amazon.com/Marsianer-Roman-German-Andy-Weir-ebook/dp/B00KG5VKK8/) (A)
