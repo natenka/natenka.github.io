@@ -41,7 +41,7 @@ share: true
 
 ## Книга "Advanced Python для сетевых инженеров"
 
-[Python для сетевых инженеров. Том 2: Продвинутые возможности Python с примерами на сетевой тематике](https://pyneng2.readthedocs.io/en/latest/)
+[Python для сетевых инженеров. Том 2: Продвинутые возможности Python с примерами на сетевой тематике](https://advpyneng.readthedocs.io/)
 
 ## Необходимое время
 
@@ -64,21 +64,21 @@ share: true
     <td>Вводная лекция (2ч)</td>
  </tr>
  <tr>
-    <td align="center">2</td>
+    <td rowspan="2" align="center">2</td>
     <td align="center">2</td>
     <td align="center">12.09.20</td>
-    <td>PyCharm (3ч)</td>
- </tr>
- <tr>
-    <td rowspan="2" align="center">3</td>
-    <td align="center">3</td>
-    <td align="center">19.09.20</td>
     <td>Основы аннотации типов (3ч)</td>
  </tr>
  <tr>
-    <td align="center">4</td>
-    <td align="center">20.09.20</td>
+    <td align="center">3</td>
+    <td align="center">13.09.20</td>
     <td>Автоматическое форматирование кода с Black (2ч)</td>
+ </tr>
+ <tr>
+    <td align="center">3</td>
+    <td align="center">4</td>
+    <td align="center">19.09.20</td>
+    <td>Создание интерфейса CLI с click (3ч)</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">4</td>
