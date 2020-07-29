@@ -89,4 +89,5 @@ category:
 36. [Technical Blogging, 2nd Edition](https://www.amazon.com/Technical-Blogging-Amplify-Your-Influence/dp/1680506471/) (ORL)
 37. [~~Whistleblower: My Journey to Silicon Valley and Fight for Justice at Uber~~](https://www.amazon.com/gp/product/B07T8TDM8S/) (A)
 38. [~~Kettlebell - Simple & Sinister~~](https://www.amazon.com/gp/product/B00GF2HP9G/) (K)
+39. [Cosmos. Carl Sagan](https://www.amazon.com/gp/product/B004W0HZN4/) (K)
 
