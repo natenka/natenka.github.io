@@ -20,20 +20,19 @@ category:
 * A - Audible
 * ? - не покупала
 
-## Технические книги (3/12)
+## Технические книги (3/11)
 
 1. [~~Practices of the Python Pro~~](https://www.amazon.com/Practices-Python-Pro-Dane-Hillard/dp/1617296082/) (K from Manning or P)
 2. [Using Asyncio in Python](https://www.amazon.com/Using-Asyncio-Python-Understanding-Asynchronous/dp/1492075337/) (ORL)
 3. [Effective Python 2nd Edition](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134853989/) (P or ORL)
-4. [Effective PyCharm](https://www.amazon.com/Effective-PyCharm-Hands-Approach-Treading/dp/1095212532/) (K)
-5. [asyncio Recipes](https://www.amazon.com/asyncio-Recipes-Mohamed-Mustapha-Tahrioui/dp/1484244001/) (P)
-6. [High Performance Python](https://www.amazon.com/High-Performance-Python-Performant-Programming/dp/1449361595/) (P)
-7. [~~tmux 2~~](https://www.amazon.com/tmux-2-Productive-Mouse-Free-Development-ebook/dp/B01N9HBR3D/) (K)
-8. [Practical Vim](https://www.amazon.com/Practical-Vim-Edit-Speed-Thought-ebook/dp/B018T6ZVPK/) (K)
-9. [Eloquent JavaScript, 3rd Edition](https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507/) (P)
-10. [~~The Python Apprentice~~](https://leanpub.com/python-apprentice) (K)
-11. [The Python Journeyman](https://leanpub.com/python-journeyman) (K)
-12. [The Python Master](https://leanpub.com/python-master) (K)
+4. [asyncio Recipes](https://www.amazon.com/asyncio-Recipes-Mohamed-Mustapha-Tahrioui/dp/1484244001/) (P)
+5. [High Performance Python](https://www.amazon.com/High-Performance-Python-Performant-Programming/dp/1449361595/) (P)
+6. [~~tmux 2~~](https://www.amazon.com/tmux-2-Productive-Mouse-Free-Development-ebook/dp/B01N9HBR3D/) (K)
+7. [Practical Vim](https://www.amazon.com/Practical-Vim-Edit-Speed-Thought-ebook/dp/B018T6ZVPK/) (K)
+8. [Eloquent JavaScript, 3rd Edition](https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507/) (P)
+9. [~~The Python Apprentice~~](https://leanpub.com/python-apprentice) (K)
+10. [The Python Journeyman](https://leanpub.com/python-journeyman) (K)
+11. [The Python Master](https://leanpub.com/python-master) (K)
 
 ## На немецком (6/11)
 
@@ -60,17 +59,19 @@ category:
 7. [~~The Rise and Fall of the Dinosaurs~~](https://www.amazon.com/Rise-Fall-Dinosaurs-History-Their/dp/0062490435/) (P, A)
 8. [~~Little Women~~](https://www.amazon.com/Little-Women-Louisa-May-Alcott-ebook/dp/B07QKDJP87/) (A)
 9. [~~The Mamba Mentality: How I Play~~](https://www.amazon.com/gp/product/B07DC3WRKT/) (K)
-10. [~~Twisteddoodles – The Newborn Identity~~](https://www.amazon.com/gp/product/1848272588/)
+10. [~~Twisteddoodles – The Newborn Identity~~](https://www.amazon.com/gp/product/1848272588/) (K)
 11. [~~Whistleblower: My Journey to Silicon Valley and Fight for Justice at Uber~~](https://www.amazon.com/gp/product/B07T8TDM8S/) (A)
 12. [~~Kettlebell - Simple & Sinister~~](https://www.amazon.com/gp/product/B00GF2HP9G/) (K)
 13. [~~Invisible Women: Data Bias in a World Designed for Men~~](https://www.amazon.com/gp/product/1419729071/) (P)
+14. [How Innovation Works: Serendipity, Energy and the Saving of Time](https://www.amazon.com/How-Innovation-Works-Flourishes-Freedom/dp/0062916599/) (A)
+15. [The 4-Hour Work Week](https://www.amazon.com/4-Hour-Work-Week-Escape-Anywhere-ebook/dp/B006X0M2TS/) (K)
 
 
 В этом году или следующем:
 
 1. [Technical Blogging, 2nd Edition](https://www.amazon.com/Technical-Blogging-Amplify-Your-Influence/dp/1680506471/) (ORL)
 2. [Collapse: How Societies Choose to Fail or Succeed](https://www.amazon.com/Collapse-Societies-Choose-Fail-Succeed/dp/B00P2QCN2U/) (A)
-3. [My Life and Work (The Autobiography of Henry Ford)](https://www.amazon.com/My-Life-Work-Henry-Ford-ebook/dp/B06Y3KZ8YP/) (?)
+3. [My Life and Work (The Autobiography of Henry Ford)](https://www.amazon.com/My-Life-Work-Henry-Ford-ebook/dp/B06Y3KZ8YP/) (P)
 4. [Neverwhere](https://www.amazon.com/Neverwhere-Authors-Preferred-Neil-Gaiman/dp/0062459082/) (P)
 5. [On Writing](https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816/) (P)
 6. [The Rational Optimist](https://www.amazon.com/Rational-Optimist-Prosperity-Evolves-P-s-ebook/dp/B003QP4BJM/) (K)
@@ -81,7 +82,7 @@ category:
 11. [Outliers: The Story of Success](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell-ebook/dp/B00FOR2FKW/) (A or K)
 12. [Where Am I Now?](https://www.amazon.com/Where-Am-Now-Girlhood-Accidental-ebook/dp/B01CFC66X0/) (A)
 13. [Educated](https://www.amazon.com/Educated-international-bestselling-Tara-Westover-ebook/dp/B07142R12X/) (K)
-14. [The Lord of the Rings]() (?)
+14. [The Lord of the Rings](https://www.amazon.com/gp/product/B002RI9176/) (K)
 15. [Girl, Stop Apologizing](https://www.amazon.com/Girl-Stop-Apologizing-Shame-Free-Embracing-ebook/dp/B07DT7VJ8T/) (K)
 16. [Whiskey in a Teacup](https://www.amazon.com/Whiskey-Teacup-Reese-Witherspoon-ebook/dp/B07CRLZBRC/) (K)
 17. [Michael Jordan: The Life](https://www.amazon.com/Michael-Jordan-Life-Roland-Lazenby/dp/0316194778/) (P)
@@ -90,9 +91,19 @@ category:
 21. [Permanent Record](https://www.amazon.com/Permanent-Record-Edward-Snowden-ebook/dp/B07STQPGH6/) (A)
 22. [Tools of Titans](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers-ebook/dp/B01HSMRWNU/) (K)
 23. [Tribe of Mentors](https://www.amazon.com/Tribe-Mentors-Short-Advice-World-ebook/dp/B071KJ7PTB/) (K)
-24. [The 4-Hour Work Week](https://www.amazon.com/4-Hour-Work-Week-Escape-Anywhere-ebook/dp/B006X0M2TS/) (K)
-25. [The Body: A Guide for Occupants](https://www.amazon.com/Body-Guide-Occupants-Bill-Bryson-ebook/dp/B07MCVWXDK/) (A)
-26. [What Made Maddy Run](https://www.amazon.com/What-Made-Maddy-Run-All-American/dp/0316356522/) (P)
-27. [Why We Sleep](https://www.amazon.com/Why-We-Sleep-Science-Dreams-ebook/dp/B06Y649387/) (A)
-28. [Cosmos. Carl Sagan](https://www.amazon.com/gp/product/B004W0HZN4/) (K)
+24. [The Body: A Guide for Occupants](https://www.amazon.com/Body-Guide-Occupants-Bill-Bryson-ebook/dp/B07MCVWXDK/) (A)
+25. [What Made Maddy Run](https://www.amazon.com/What-Made-Maddy-Run-All-American/dp/0316356522/) (P)
+26. [Why We Sleep](https://www.amazon.com/Why-We-Sleep-Science-Dreams-ebook/dp/B06Y649387/) (A)
+27. [Cosmos. Carl Sagan](https://www.amazon.com/gp/product/B004W0HZN4/) (K)
+
+# Планы на 2021/купленные книги
+
+* [The End of Everything: (Astrophysically Speaking)](https://www.amazon.com/gp/product/198210354X/) (P)
+* [When Galaxies Collide](https://www.amazon.com/gp/product/052287651X/) (P)
+* [Project Hail Mary: A Novel by Andy Weir (Release date May 4, 2021)](https://www.amazon.com/gp/product/0593135202/) (P)
+
+## Технические книги
+
+* [99 Bottles of OOP - 2nd Edition](https://sandimetz.com/99bottles) (K)
+* [Effective PyCharm](https://www.amazon.com/Effective-PyCharm-Hands-Approach-Treading/dp/1095212532/) (K) - подготовка к курсу по Flask?
 
