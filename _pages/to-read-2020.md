@@ -106,4 +106,7 @@ category:
 
 * [99 Bottles of OOP - 2nd Edition](https://sandimetz.com/99bottles) (K)
 * [Effective PyCharm](https://www.amazon.com/Effective-PyCharm-Hands-Approach-Treading/dp/1095212532/) (K) - подготовка к курсу по Flask?
+* [Ansible for DevOps](https://leanpub.com/ansible-for-devops) (K)
+* [Seven Databases in Seven Weeks 2e](https://www.amazon.com/gp/product/1680502530) (ORL)
+* [Fluent Python 2nd edition](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming-dp-1492056359/dp/1492056359/) (ORL, P)
 
