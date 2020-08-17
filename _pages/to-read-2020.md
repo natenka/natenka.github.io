@@ -96,7 +96,7 @@ category:
 26. [Why We Sleep](https://www.amazon.com/Why-We-Sleep-Science-Dreams-ebook/dp/B06Y649387/) (A)
 27. [Cosmos. Carl Sagan](https://www.amazon.com/gp/product/B004W0HZN4/) (K)
 
-# Планы на 2021/купленные книги
+# Планы на 2021
 
 * [The End of Everything: (Astrophysically Speaking)](https://www.amazon.com/gp/product/198210354X/) (P)
 * [When Galaxies Collide](https://www.amazon.com/gp/product/052287651X/) (P)
