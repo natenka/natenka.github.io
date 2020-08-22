@@ -101,6 +101,7 @@ category:
 * [The End of Everything: (Astrophysically Speaking)](https://www.amazon.com/gp/product/198210354X/) (P)
 * [When Galaxies Collide](https://www.amazon.com/gp/product/052287651X/) (P)
 * [Project Hail Mary: A Novel by Andy Weir (Release date May 4, 2021)](https://www.amazon.com/gp/product/0593135202/) (P)
+* [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/Working-Public-Making-Maintenance-Software-ebook/dp/B08BDGXVK9)
 
 ## Технические книги
 
