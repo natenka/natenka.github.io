@@ -99,6 +99,7 @@ YouTube каналы:
 * [CiscoConfParse](https://github.com/mpenning/ciscoconfparse)
 * [eNMS](https://github.com/afourmy/eNMS)
 * [NAPALM](https://github.com/napalm-automation/napalm)
+* [NetBox](https://netbox.readthedocs.io/en/stable/)
 * [netdev](https://github.com/selfuryon/netdev)
 * [NetworkX](https://github.com/networkx/networkx)
 * [NOC Project](https://kb.nocproject.org/display/SITE/NOC)
@@ -106,6 +107,7 @@ YouTube каналы:
 * [Requests](https://github.com/kennethreitz/requests)
 * [SaltStack](https://saltstack.com/)
 * [Scapy](https://github.com/secdev/scapy)
+* [Scrapli](https://github.com/carlmontanari/scrapli)
 * [StackStorm](https://stackstorm.com/)
 
 ## Полезные модули Python
