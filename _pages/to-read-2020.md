@@ -16,6 +16,7 @@ category:
 
 * ORL - O'Reilly learning
 * P - print
+* PP - print preorder
 * K - Kindle
 * A - Audible
 * ? - не покупала
@@ -24,7 +25,7 @@ category:
 
 1. [~~Practices of the Python Pro~~](https://www.amazon.com/Practices-Python-Pro-Dane-Hillard/dp/1617296082/) (K from Manning or P)
 2. [Using Asyncio in Python](https://www.amazon.com/Using-Asyncio-Python-Understanding-Asynchronous/dp/1492075337/) (ORL)
-3. [Effective Python 2nd Edition](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134853989/) (P or ORL)
+3. [Effective Python 2nd Edition](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134853989/) (P, ORL)
 4. [asyncio Recipes](https://www.amazon.com/asyncio-Recipes-Mohamed-Mustapha-Tahrioui/dp/1484244001/) (P)
 5. [High Performance Python](https://www.amazon.com/High-Performance-Python-Performant-Programming/dp/1449361595/) (P)
 6. [~~tmux 2~~](https://www.amazon.com/tmux-2-Productive-Mouse-Free-Development-ebook/dp/B01N9HBR3D/) (K)
@@ -65,6 +66,7 @@ category:
 13. [~~Invisible Women: Data Bias in a World Designed for Men~~](https://www.amazon.com/gp/product/1419729071/) (P)
 14. [How Innovation Works: Serendipity, Energy and the Saving of Time](https://www.amazon.com/How-Innovation-Works-Flourishes-Freedom/dp/0062916599/) (A)
 15. [The 4-Hour Work Week](https://www.amazon.com/4-Hour-Work-Week-Escape-Anywhere-ebook/dp/B006X0M2TS/) (K)
+16. [The End of Everything: (Astrophysically Speaking)](https://www.amazon.com/gp/product/198210354X/) (P)
 
 
 В этом году или следующем:
@@ -79,7 +81,7 @@ category:
 8. [Originals: How Non-conformists Change the World](https://www.amazon.com/Originals-How-Non-conformists-Change-World-ebook/dp/B01626YWJ0/) (K)
 9. [The Selfish Gene](https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science-ebook/dp/B01GI5F2FS/) (K)
 10. [Brave New World](https://www.amazon.com/Brave-New-World-Aldous-Huxley-ebook/dp/B0031R5K6S/) (A)
-11. [Outliers: The Story of Success](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell-ebook/dp/B00FOR2FKW/) (A or K)
+11. [Outliers: The Story of Success](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell-ebook/dp/B00FOR2FKW/) (A, K)
 12. [Where Am I Now?](https://www.amazon.com/Where-Am-Now-Girlhood-Accidental-ebook/dp/B01CFC66X0/) (A)
 13. [Educated](https://www.amazon.com/Educated-international-bestselling-Tara-Westover-ebook/dp/B07142R12X/) (K)
 14. [The Lord of the Rings](https://www.amazon.com/gp/product/B002RI9176/) (K)
@@ -98,10 +100,9 @@ category:
 
 # Планы на 2021
 
-* [The End of Everything: (Astrophysically Speaking)](https://www.amazon.com/gp/product/198210354X/) (P)
 * [When Galaxies Collide](https://www.amazon.com/gp/product/052287651X/) (P)
-* [Project Hail Mary: A Novel by Andy Weir (Release date May 4, 2021)](https://www.amazon.com/gp/product/0593135202/) (P)
-* [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/Working-Public-Making-Maintenance-Software-ebook/dp/B08BDGXVK9)
+* [Project Hail Mary: A Novel by Andy Weir (Release date May 4, 2021)](https://www.amazon.com/gp/product/0593135202/) (PP)
+* [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/Working-Public-Making-Maintenance-Software-ebook/dp/B08BDGXVK9) (K))
 
 ## Технические книги
 
