@@ -104,6 +104,7 @@ category:
 * [Project Hail Mary: A Novel by Andy Weir (Release date May 4, 2021)](https://www.amazon.com/gp/product/0593135202/) (PP)
 * [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/Working-Public-Making-Maintenance-Software-ebook/dp/B08BDGXVK9) (K)
 * [Bad Blood](https://www.amazon.com/gp/product/B07BMCMS5L/) (A)
+* [Keep Going: 10 Ways to Stay Creative in Good Times and Bad](https://www.amazon.com/gp/product/B07GNWXTKV/) (K)
 
 ## Технические книги
 
