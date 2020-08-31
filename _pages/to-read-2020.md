@@ -105,6 +105,9 @@ category:
 * [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/Working-Public-Making-Maintenance-Software-ebook/dp/B08BDGXVK9) (K)
 * [Bad Blood](https://www.amazon.com/gp/product/B07BMCMS5L/) (A)
 * [Keep Going: 10 Ways to Stay Creative in Good Times and Bad](https://www.amazon.com/gp/product/B07GNWXTKV/) (K)
+* [SPQR: A History of Ancient Rome](https://www.amazon.com/SPQR-History-Ancient-Mary-Beard-ebook/dp/B014T9HKN2/) (K)
+* [Kindred: Neanderthal Life, Love, Death and Art](https://www.amazon.com/Kindred-Neanderthal-Life-Love-Death-ebook/dp/B07YLYHBVF/) (K, A)
+* [A Life in Parts](https://www.amazon.com/Life-Parts-Bryan-Cranston-ebook/dp/B00V3KJZMK/) (A)
 
 ## Технические книги
 
