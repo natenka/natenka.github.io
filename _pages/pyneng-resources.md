@@ -73,6 +73,7 @@ Ivan Pepelnjak:
 
 Другие:
 
+* [Advanced Network Automation with Cisco and Python. CBT Nuggets](https://www.cbtnuggets.com/it-training/networking/network-automation-cisco-python)
 * [Курсы от Network to Code](http://networktocode.com/products/training/)
 * [Network Automation using Python for Engineers (ehacking academy)](http://academy.ehacking.net/p/network-automation-python-engineers)
 
