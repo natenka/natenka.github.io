@@ -3,8 +3,9 @@ title: "Обновлены задания Python для сетевых инже�
 date: 2020-09-07
 tags:
  - python
+ - pyneng
 category:
- - python
+ - pyneng
 ---
 
 
