@@ -118,3 +118,4 @@ category:
 * [Fluent Python 2nd edition](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming-dp-1492056359/dp/1492056359/) (ORL, P)
 * [Database Internals](https://www.amazon.com/gp/product/1492040347/) (ORL)
 * [The coding career handbook](https://www.learninpublic.org/) ?
+* [The Developer's Guide to Content Creation](https://www.developersguidetocontent.com/) ?
