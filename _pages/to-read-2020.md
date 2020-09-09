@@ -108,6 +108,7 @@ category:
 * [SPQR: A History of Ancient Rome](https://www.amazon.com/SPQR-History-Ancient-Mary-Beard-ebook/dp/B014T9HKN2/) (K)
 * [Kindred: Neanderthal Life, Love, Death and Art](https://www.amazon.com/Kindred-Neanderthal-Life-Love-Death-ebook/dp/B07YLYHBVF/) (K, A)
 * [A Life in Parts](https://www.amazon.com/Life-Parts-Bryan-Cranston-ebook/dp/B00V3KJZMK/) (A)
+* [Packing for Mars: The Curious Science of Life in the Void](https://smile.amazon.com/Packing-Mars-Curious-Science-Life-ebook/dp/B003YJEXUM/) (K)
 
 ## Технические книги
 
@@ -117,5 +118,6 @@ category:
 * [Seven Databases in Seven Weeks 2e](https://www.amazon.com/gp/product/1680502530) (ORL)
 * [Fluent Python 2nd edition](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming-dp-1492056359/dp/1492056359/) (ORL, P)
 * [Database Internals](https://www.amazon.com/gp/product/1492040347/) (ORL)
+* [Building an Effective Dev Portfolio](https://joshwcomeau.com/effective-portfolio/) (Free: PDF, K)
 * [The coding career handbook](https://www.learninpublic.org/) ?
 * [The Developer's Guide to Content Creation](https://www.developersguidetocontent.com/) ?
