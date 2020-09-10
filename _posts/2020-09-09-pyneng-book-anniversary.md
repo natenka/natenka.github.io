@@ -23,7 +23,7 @@ category:
 
 Мои планы по книгам:
 
-* В конце года я планирую поменять местами разделы в книге PyNEng и удалить [раздел по Ansible, так как он в отдельной книге](https://ansible-for-network-engineers.readthedocs.io/en/latest/).
+* В конце года я планирую поменять местами разделы в книге PyNEng и удалить [раздел по Ansible, так как он в отдельной книге](https://ansible-for-network-engineers.readthedocs.io/).
 * Дописать книгу [Advanced Python для сетевых инженеров](https://advpyneng.readthedocs.io/).
 * Начать писать книгу по Flask в следующем году.
 
