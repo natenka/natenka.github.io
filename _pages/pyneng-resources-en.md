@@ -69,6 +69,7 @@ Ivan Pepelnjak:
 
 Others:
 
+* [Advanced Network Automation with Cisco and Python. CBT Nuggets](https://www.cbtnuggets.com/it-training/networking/network-automation-cisco-python)
 * [Network to Code](http://networktocode.com/products/training/)
 * [Network Automation using Python for Engineers (ehacking academy)](http://academy.ehacking.net/p/network-automation-python-engineers)
 
@@ -93,6 +94,7 @@ YouTube channels:
 * [CiscoConfParse](https://github.com/mpenning/ciscoconfparse)
 * [eNMS](https://github.com/afourmy/eNMS)
 * [NAPALM](https://github.com/napalm-automation/napalm)
+* [NetBox](https://netbox.readthedocs.io/en/stable/)
 * [netdev](https://github.com/selfuryon/netdev)
 * [NetworkX](https://github.com/networkx/networkx)
 * [NOC Project](https://kb.nocproject.org/display/SITE/NOC)
@@ -100,6 +102,7 @@ YouTube channels:
 * [Requests](https://github.com/kennethreitz/requests)
 * [SaltStack](https://saltstack.com/)
 * [Scapy](https://github.com/secdev/scapy)
+* [Scrapli](https://github.com/carlmontanari/scrapli)
 * [StackStorm](https://stackstorm.com/)
 
 ## Python modules
@@ -155,8 +158,7 @@ Basics:
 Intermediate/advanced:
 
 * [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features-ebook/dp/B0785Q7GSY)
-* [Effective Python: 59 Specific Ways to Write Better Python (Effective Software Development Series)](https://www.amazon.com/Effective-Python-Specific-Software-Development-ebook-dp-B00TKGY0GU/dp/B00TKGY0GU/)
-* [Dive Into Python 3](http://diveintopython3.problemsolving.io/)
+* [Effective Python: 90 Specific Ways to Write Better Python (Effective Software Development Series)](https://www.amazon.com/gp/product/0134853989/)
 * [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/static/pythonds/index.html)
 * [Fluent Python](https://www.amazon.com/gp/product/1491946008/)
 * [Python Cookbook](https://www.amazon.com/gp/product/1449340377/)
@@ -180,4 +182,13 @@ Intermediate/advanced:
 * [Talk Python To Me](https://talkpython.fm/)
 * [Best Python Podcasts](https://www.fullstackpython.com/best-python-podcasts.html)
 
+
+## YouTube channels:
+
+* [Corey Schafer](https://www.youtube.com/user/schafer5)
+
+## Python resources
+
+* [Awesome Python](https://github.com/vinta/awesome-python)
+* [The Best Python Books](https://realpython.com/best-python-books/)
 
