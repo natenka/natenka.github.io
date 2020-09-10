@@ -41,11 +41,6 @@ Kirk Byers:
 * [Python for Network Engineers](https://pynet.twb-tech.com/class.html)
 * [Ansible](https://pynet.twb-tech.com/class-ansible.html)
 
-INE:
-
-* [Python Programming for Network Engineers](https://ine.com/products/python-programming-for-network-engineers)
-* [Network Automation with Ansible](https://ine.com/collections/automation-systems/products/network-automation-with-ansible)
-* [Automation & systems courses](https://ine.com/collections/automation-systems)
 
 GNS3 Academy:
 
@@ -69,6 +64,7 @@ Ivan Pepelnjak:
 
 Others:
 
+* [INE Python courses](https://my.ine.com/search?query=python&learningArea=Networking)
 * [Advanced Network Automation with Cisco and Python. CBT Nuggets](https://www.cbtnuggets.com/it-training/networking/network-automation-cisco-python)
 * [Network to Code](http://networktocode.com/products/training/)
 * [Network Automation using Python for Engineers (ehacking academy)](http://academy.ehacking.net/p/network-automation-python-engineers)
