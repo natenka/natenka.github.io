@@ -23,6 +23,8 @@ category:
 Соответственно изменен порядок разделов [в репозитории заданий и примеров](https://github.com/natenka/pyneng-examples-exercises).
 Старый порядок сохранен в ветке [old_chapter_order](https://github.com/natenka/pyneng-examples-exercises/tree/old_chapter_order).
 
+> Все новые правки будут идти только в обновленную версию, так что лучше, по возможности, переходить на новую.
+
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/update.png)
 
 
