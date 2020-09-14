@@ -17,3 +17,4 @@ from _pytest.assertion.rewrite import AssertionRewritingHook
 if not isinstance(__loader__, AssertionRewritingHook):
     print(f"Тесты нужно вызывать используя такое выражение:\npytest {__file__}\n\n")
 ```
+fast_cli лучше указывать в параметраз, а не в тестах
