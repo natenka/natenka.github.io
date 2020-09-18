@@ -154,12 +154,12 @@ Basics:
 Intermediate/advanced:
 
 * [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features-ebook/dp/B0785Q7GSY)
-* [Dive Into Python](https://diveintopython3.problemsolving.io/)
 * [Practices of the Python Pro](https://www.amazon.com/gp/product/1617296082/)
 * [Effective Python: 90 Specific Ways to Write Better Python (Effective Software Development Series)](https://www.amazon.com/gp/product/0134853989/)
 * [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/static/pythonds/index.html)
 * [Fluent Python](https://www.amazon.com/gp/product/1491946008/)
 * [Python Cookbook](https://www.amazon.com/gp/product/1449340377/)
+* [Dive Into Python](https://diveintopython3.problemsolving.io/)
 
 
 ## Challenges

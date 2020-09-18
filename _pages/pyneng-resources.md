@@ -165,12 +165,12 @@ YouTube каналы:
 Среднего/продвинутого уровня:
 
 * [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features-ebook/dp/B0785Q7GSY) - отличный вариант для 2-3 книги по Python. В книге описываются различные аспекты Python и то как правильно использовать. Книга достаточно новая (конец 2017 года), в ней рассматривается Python 3.
-* [Dive Into Python](https://diveintopython3.problemsolving.io/). [На русском](https://pep8.ru/doc/dive-into-python-3/)
 * [Practices of the Python Pro](https://www.amazon.com/gp/product/1617296082/)
-* [Effective Python: 90 Specific Ways to Write Better Python (Effective Software Development Series)](https://www.amazon.com/gp/product/0134853989/) - книга полезных советов как лучше писать код. В конце 2019 года [планируется выход второго издания книги](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134853989/).
+* [Effective Python: 90 Specific Ways to Write Better Python (Effective Software Development Series)](https://www.amazon.com/gp/product/0134853989/) - книга полезных советов как лучше писать код.
 * [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/static/pythonds/index.html) - отличная книга по структурам данных и алгоритмам. Много примеров и домашних заданий. [На русском](http://aliev.me/runestone/)
 * [Fluent Python](https://www.amazon.com/gp/product/1491946008/) - отличная книга по более продвинутым темам. Даже те темы, которые устарели в текущей версии Python (asyncio) стоит прочитать ради прекрасного объяснения темы.
 * [Python Cookbook](https://www.amazon.com/gp/product/1449340377/) - отличная книга рецептов. Рассматривается огромное количество сценариев с решениями и пояснением.
+* [Dive Into Python](https://diveintopython3.problemsolving.io/). [На русском](https://pep8.ru/doc/dive-into-python-3/) - книга достаточно старая, но есть темы, которые отстутсвуют в других книгах в списке: xml, packaging и другие. Прочитать можно, но стоит учитывать, что в некоторых темах набрали популярность другие модули. Например, вместо httplib2 - requests и вместо unittest - pytest. Как дополнительный материал по тем же темам, книга отлично подходит.
 
 ## Сайты с задачами
 
