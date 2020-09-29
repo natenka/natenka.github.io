@@ -49,7 +49,7 @@ category:
 10. [~~Die zwei Türme. Der Herr der Ringe 2~~](https://www.audible.com/search?keywords=Der+Herr+der+Ringe&ref=a_search_t1_header_search) (A)
 11. [~~Die Wiederkehr des Königs. Der Herr der Ringe 3~~](https://www.audible.com/search?keywords=Der+Herr+der+Ringe&ref=a_search_t1_header_search) (A)
 
-## Всё остальное (13)
+## Всё остальное (14)
 
 1. [~~The Song of Achilles~~](https://www.amazon.com/Song-Achilles-Madeline-Miller-ebook/dp/B005FPWUSA/) (A)
 2. [~~Atomic Habits~~](https://www.amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B01N5AX61W/) (K or A)
@@ -66,7 +66,7 @@ category:
 13. [~~Invisible Women: Data Bias in a World Designed for Men~~](https://www.amazon.com/gp/product/1419729071/) (P)
 14. [How Innovation Works: Serendipity, Energy and the Saving of Time](https://www.amazon.com/How-Innovation-Works-Flourishes-Freedom/dp/0062916599/) (A)
 15. [The 4-Hour Work Week](https://www.amazon.com/4-Hour-Work-Week-Escape-Anywhere-ebook/dp/B006X0M2TS/) (K)
-16. [The End of Everything: (Astrophysically Speaking)](https://www.amazon.com/gp/product/198210354X/) (P)
+16. [~~The End of Everything: (Astrophysically Speaking)~~](https://www.amazon.com/gp/product/198210354X/) (P)
 
 
 В этом году или следующем:
