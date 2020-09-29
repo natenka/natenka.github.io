@@ -67,6 +67,7 @@ category:
 14. [How Innovation Works: Serendipity, Energy and the Saving of Time](https://www.amazon.com/How-Innovation-Works-Flourishes-Freedom/dp/0062916599/) (A)
 15. [The 4-Hour Work Week](https://www.amazon.com/4-Hour-Work-Week-Escape-Anywhere-ebook/dp/B006X0M2TS/) (K)
 16. [~~The End of Everything: (Astrophysically Speaking)~~](https://www.amazon.com/gp/product/198210354X/) (P)
+17. [When Galaxies Collide](https://www.amazon.com/gp/product/052287651X/) (P)
 
 
 В этом году или следующем:
@@ -100,7 +101,6 @@ category:
 
 # Планы на 2021
 
-* [When Galaxies Collide](https://www.amazon.com/gp/product/052287651X/) (P)
 * [Project Hail Mary: A Novel by Andy Weir (Release date May 4, 2021)](https://www.amazon.com/gp/product/0593135202/) (PP)
 * [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/Working-Public-Making-Maintenance-Software-ebook/dp/B08BDGXVK9) (K)
 * [Bad Blood](https://www.amazon.com/gp/product/B07BMCMS5L/) (A)
@@ -121,3 +121,4 @@ category:
 * [Building an Effective Dev Portfolio](https://joshwcomeau.com/effective-portfolio/) (Free: PDF, K)
 * [The coding career handbook](https://www.learninpublic.org/) ?
 * [The Developer's Guide to Content Creation](https://www.developersguidetocontent.com/) ?
+
