@@ -22,11 +22,11 @@ share: true
 
 > Книга/курс углубляется в Python, а не в автоматизацию работы с оборудованием и это далеко не всем нужно.
 
-* [Книга "Advanced Python для сетевых инженеров"](https://advpyneng.readthedocs.io/ru/latest/)
+* [Книга "Advanced Python для сетевых инженеров"](https://advpyneng.readthedocs.io/ru/latest/) ещё в процесе написания
 * [Задания к книге/курсу](https://github.com/natenka/advpyneng-examples-exercises)
 * [Сообщество в Slack](https://join.slack.com/t/pyneng/shared_invite/enQtNzkyNTYwOTU5Njk5LWE4OGNjMmM1ZTlkNWQ0N2RhODExZDA0OTNhNDJjZDZlOTZhOGRiMzIyZjBhZWYzYzc3MTg3ZmQzODllYmQ4OWU)
 * [Онлайн курс](/advanced-pyneng-online/)
-* [Почти половина тем выложена как бонусные лекции на YouTube](https://www.youtube.com/playlist?list=PLah0HUih_ZRmiZjBaTcECszqlRM8LlahR). [Лекция по click выложена в отдельном playlist](https://www.youtube.com/playlist?list=PLah0HUih_ZRkrS43bjaC8hxwQjcCZhNiM)
+* Почти половина тем [выложена как бонусные лекции](https://www.youtube.com/playlist?list=PLah0HUih_ZRmiZjBaTcECszqlRM8LlahR) на Youtube. Лекция по click [выложена в отдельном playlist](https://www.youtube.com/playlist?list=PLah0HUih_ZRkrS43bjaC8hxwQjcCZhNiM)
 
 
 ## Ansible для сетевых инженеров
