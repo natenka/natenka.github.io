@@ -24,7 +24,7 @@ main:
     #      - title: Книги
     #        url: /links/books
 links:
-  - title: <a href="https://www.patreon.com/bePatron?u=12246950" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+  - title: <a href="https://www.patreon.com/bePatron?u=12246950" data-patreon-widget-type="become-patron-button">Patreon</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
   - title: Python для сетевых инженеров
     children:
       - title: Книга Python для сетевых инженеров
