@@ -1,13 +1,11 @@
 # main links
 main:
-  - title: "Blog"
-    url: /blog/
+  - title: "Мои проекты"
+    url: /projects/
   - title: "Курс PyNEng"
     url: /pyneng-online/
   - title: "График курсов"
     url: /schedule/
-  - title: "Мои проекты"
-    url: /projects/
   - title: "About"
     url: /about/
   # - title: "Sample Posts"
