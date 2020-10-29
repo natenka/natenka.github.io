@@ -52,7 +52,7 @@ category:
 ## Всё остальное (15)
 
 1. [~~The Song of Achilles~~](https://www.amazon.com/Song-Achilles-Madeline-Miller-ebook/dp/B005FPWUSA/) (A)
-2. [~~Atomic Habits~~](https://www.amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B01N5AX61W/) (K or A)
+20.2. [~~Atomic Habits~~](https://www.amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B01N5AX61W/) (K or A)
 3. [~~Dear Girls~~](https://www.amazon.com/Dear-Girls-Intimate-Untold-Secrets-ebook/dp/B07PZ4H1N2/) (A)
 4. [~~The Obstacle Is the Way~~](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph-ebook/dp/B00G3L1B8K/) (K)
 5. [~~May I Have Your Attention Please?~~](https://www.amazon.com/May-Have-Your-Attention-Please-ebook/dp/B005LBXRB2/) (A)
@@ -70,6 +70,7 @@ category:
 17. [When Galaxies Collide](https://www.amazon.com/gp/product/052287651X/) (P)
 18. [A Life in Parts](https://www.amazon.com/Life-Parts-Bryan-Cranston-ebook/dp/B00V3KJZMK/) (A)
 19. [Whiskey in a Teacup](https://www.amazon.com/Whiskey-Teacup-Reese-Witherspoon-ebook/dp/B07CRLZBRC/) (K)
+20. [Kindred: Neanderthal Life, Love, Death and Art](https://www.amazon.com/Kindred-Neanderthal-Life-Love-Death-ebook/dp/B07YLYHBVF/) (K, A)
 
 
 В этом году или следующем:
@@ -107,7 +108,6 @@ category:
 * [Bad Blood](https://www.amazon.com/gp/product/B07BMCMS5L/) (A)
 * [Keep Going: 10 Ways to Stay Creative in Good Times and Bad](https://www.amazon.com/gp/product/B07GNWXTKV/) (K)
 * [SPQR: A History of Ancient Rome](https://www.amazon.com/SPQR-History-Ancient-Mary-Beard-ebook/dp/B014T9HKN2/) (K)
-* [Kindred: Neanderthal Life, Love, Death and Art](https://www.amazon.com/Kindred-Neanderthal-Life-Love-Death-ebook/dp/B07YLYHBVF/) (K, A)
 * [Packing for Mars: The Curious Science of Life in the Void](https://smile.amazon.com/Packing-Mars-Curious-Science-Life-ebook/dp/B003YJEXUM/) (K)
 
 ## Технические книги
