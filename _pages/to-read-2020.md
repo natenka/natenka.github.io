@@ -65,9 +65,11 @@ category:
 12. [~~Kettlebell - Simple & Sinister~~](https://www.amazon.com/gp/product/B00GF2HP9G/) (K)
 13. [~~Invisible Women: Data Bias in a World Designed for Men~~](https://www.amazon.com/gp/product/1419729071/) (P)
 14. [~~How Innovation Works: Serendipity, Energy and the Saving of Time~~](https://www.amazon.com/How-Innovation-Works-Flourishes-Freedom/dp/0062916599/) (A)
-15. [The 4-Hour Work Week](https://www.amazon.com/4-Hour-Work-Week-Escape-Anywhere-ebook/dp/B006X0M2TS/) (K)
-16. [~~The End of Everything: (Astrophysically Speaking)~~](https://www.amazon.com/gp/product/198210354X/) (P)
+15. [~~The End of Everything: (Astrophysically Speaking)~~](https://www.amazon.com/gp/product/198210354X/) (P)
+16. [The 4-Hour Work Week](https://www.amazon.com/4-Hour-Work-Week-Escape-Anywhere-ebook/dp/B006X0M2TS/) (K)
 17. [When Galaxies Collide](https://www.amazon.com/gp/product/052287651X/) (P)
+18. [A Life in Parts](https://www.amazon.com/Life-Parts-Bryan-Cranston-ebook/dp/B00V3KJZMK/) (A)
+19. [Whiskey in a Teacup](https://www.amazon.com/Whiskey-Teacup-Reese-Witherspoon-ebook/dp/B07CRLZBRC/) (K)
 
 
 В этом году или следующем:
@@ -87,17 +89,16 @@ category:
 13. [Educated](https://www.amazon.com/Educated-international-bestselling-Tara-Westover-ebook/dp/B07142R12X/) (K)
 14. [The Lord of the Rings](https://www.amazon.com/gp/product/B002RI9176/) (K)
 15. [Girl, Stop Apologizing](https://www.amazon.com/Girl-Stop-Apologizing-Shame-Free-Embracing-ebook/dp/B07DT7VJ8T/) (K)
-16. [Whiskey in a Teacup](https://www.amazon.com/Whiskey-Teacup-Reese-Witherspoon-ebook/dp/B07CRLZBRC/) (K)
-17. [Michael Jordan: The Life](https://www.amazon.com/Michael-Jordan-Life-Roland-Lazenby/dp/0316194778/) (P)
-18. [Einstein: His Life and Universe](https://www.amazon.com/Einstein-Life-Universe-Walter-Isaacson/dp/0743264746/) (P)
-19. [Behave: The Biology of Humans at Our Best and Worst](https://www.amazon.com/Behave-Biology-Humans-Best-Worst-ebook/dp/B01A7YX4TW/) (K)
-21. [Permanent Record](https://www.amazon.com/Permanent-Record-Edward-Snowden-ebook/dp/B07STQPGH6/) (A)
-22. [Tools of Titans](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers-ebook/dp/B01HSMRWNU/) (K)
-23. [Tribe of Mentors](https://www.amazon.com/Tribe-Mentors-Short-Advice-World-ebook/dp/B071KJ7PTB/) (K)
-24. [The Body: A Guide for Occupants](https://www.amazon.com/Body-Guide-Occupants-Bill-Bryson-ebook/dp/B07MCVWXDK/) (A)
-25. [What Made Maddy Run](https://www.amazon.com/What-Made-Maddy-Run-All-American/dp/0316356522/) (P)
-26. [Why We Sleep](https://www.amazon.com/Why-We-Sleep-Science-Dreams-ebook/dp/B06Y649387/) (A)
-27. [Cosmos. Carl Sagan](https://www.amazon.com/gp/product/B004W0HZN4/) (K)
+16. [Michael Jordan: The Life](https://www.amazon.com/Michael-Jordan-Life-Roland-Lazenby/dp/0316194778/) (P)
+17. [Einstein: His Life and Universe](https://www.amazon.com/Einstein-Life-Universe-Walter-Isaacson/dp/0743264746/) (P)
+18. [Behave: The Biology of Humans at Our Best and Worst](https://www.amazon.com/Behave-Biology-Humans-Best-Worst-ebook/dp/B01A7YX4TW/) (K)
+19. [Permanent Record](https://www.amazon.com/Permanent-Record-Edward-Snowden-ebook/dp/B07STQPGH6/) (A)
+20. [Tools of Titans](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers-ebook/dp/B01HSMRWNU/) (K)
+21. [Tribe of Mentors](https://www.amazon.com/Tribe-Mentors-Short-Advice-World-ebook/dp/B071KJ7PTB/) (K)
+22. [The Body: A Guide for Occupants](https://www.amazon.com/Body-Guide-Occupants-Bill-Bryson-ebook/dp/B07MCVWXDK/) (A)
+23. [What Made Maddy Run](https://www.amazon.com/What-Made-Maddy-Run-All-American/dp/0316356522/) (P)
+24. [Why We Sleep](https://www.amazon.com/Why-We-Sleep-Science-Dreams-ebook/dp/B06Y649387/) (A)
+25. [Cosmos. Carl Sagan](https://www.amazon.com/gp/product/B004W0HZN4/) (K)
 
 # Планы на 2021
 
@@ -107,7 +108,6 @@ category:
 * [Keep Going: 10 Ways to Stay Creative in Good Times and Bad](https://www.amazon.com/gp/product/B07GNWXTKV/) (K)
 * [SPQR: A History of Ancient Rome](https://www.amazon.com/SPQR-History-Ancient-Mary-Beard-ebook/dp/B014T9HKN2/) (K)
 * [Kindred: Neanderthal Life, Love, Death and Art](https://www.amazon.com/Kindred-Neanderthal-Life-Love-Death-ebook/dp/B07YLYHBVF/) (K, A)
-* [A Life in Parts](https://www.amazon.com/Life-Parts-Bryan-Cranston-ebook/dp/B00V3KJZMK/) (A)
 * [Packing for Mars: The Curious Science of Life in the Void](https://smile.amazon.com/Packing-Mars-Curious-Science-Life-ebook/dp/B003YJEXUM/) (K)
 
 ## Технические книги
