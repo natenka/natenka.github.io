@@ -49,7 +49,7 @@ category:
 10. [~~Die zwei Türme. Der Herr der Ringe 2~~](https://www.audible.com/search?keywords=Der+Herr+der+Ringe&ref=a_search_t1_header_search) (A)
 11. [~~Die Wiederkehr des Königs. Der Herr der Ringe 3~~](https://www.audible.com/search?keywords=Der+Herr+der+Ringe&ref=a_search_t1_header_search) (A)
 
-## Всё остальное (15)
+## Всё остальное (16)
 
 1. [~~The Song of Achilles~~](https://www.amazon.com/Song-Achilles-Madeline-Miller-ebook/dp/B005FPWUSA/) (A)
 2. [~~Atomic Habits~~](https://www.amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B01N5AX61W/) (K or A)
@@ -68,9 +68,9 @@ category:
 15. [~~The End of Everything: (Astrophysically Speaking)~~](https://www.amazon.com/gp/product/198210354X/) (P)
 16. [The 4-Hour Work Week](https://www.amazon.com/4-Hour-Work-Week-Escape-Anywhere-ebook/dp/B006X0M2TS/) (K)
 17. [When Galaxies Collide](https://www.amazon.com/gp/product/052287651X/) (P)
-18. [A Life in Parts](https://www.amazon.com/Life-Parts-Bryan-Cranston-ebook/dp/B00V3KJZMK/) (A)
-19. [Whiskey in a Teacup](https://www.amazon.com/Whiskey-Teacup-Reese-Witherspoon-ebook/dp/B07CRLZBRC/) (K)
-20. [Kindred: Neanderthal Life, Love, Death and Art](https://www.amazon.com/Kindred-Neanderthal-Life-Love-Death-ebook/dp/B07YLYHBVF/) (K, A)
+18. [~~A Life in Parts~~](https://www.amazon.com/Life-Parts-Bryan-Cranston-ebook/dp/B00V3KJZMK/) (A)
+19. [Kindred: Neanderthal Life, Love, Death and Art](https://www.amazon.com/Kindred-Neanderthal-Life-Love-Death-ebook/dp/B07YLYHBVF/) (K, A)
+
 
 
 В этом году или следующем:
@@ -100,6 +100,7 @@ category:
 23. [What Made Maddy Run](https://www.amazon.com/What-Made-Maddy-Run-All-American/dp/0316356522/) (P)
 24. [Why We Sleep](https://www.amazon.com/Why-We-Sleep-Science-Dreams-ebook/dp/B06Y649387/) (A)
 25. [Cosmos. Carl Sagan](https://www.amazon.com/gp/product/B004W0HZN4/) (K)
+26. [Whiskey in a Teacup](https://www.amazon.com/Whiskey-Teacup-Reese-Witherspoon-ebook/dp/B07CRLZBRC/) (K)
 
 # Планы на 2021
 
