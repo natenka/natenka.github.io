@@ -35,7 +35,7 @@ category:
 10. [The Python Journeyman](https://leanpub.com/python-journeyman) (K)
 11. [The Python Master](https://leanpub.com/python-master) (K)
 
-## На немецком (6/11)
+## На немецком (7/11)
 
 1. [~~Gute Geister~~](https://www.amazon.com/Gute-Geister-German-Kathryn-Stockett-ebook/dp/B004YHUBN6/) (A)
 2. [~~Der Marsianer~~](https://www.amazon.com/Marsianer-Roman-German-Andy-Weir-ebook/dp/B00KG5VKK8/) (A)
@@ -44,7 +44,7 @@ category:
 5. [Stolz und Vorurteil](https://www.amazon.com/Stolz-Vorurteil-Fischer-Klassik-German-ebook/dp/B071K333Y5/) (A)
 6. [Von der Erde zum Mond](https://www.audible.com/pd/Von-der-Erde-zum-Mond-Audiobook/B00TKND5CS) (A)
 7. [20.000 Meilen unter dem Meer](https://www.audible.com/pd/20000-Meilen-unter-dem-Meer-Audiobook/B00TVNWZ00) (A)
-8. [Shoe Dog](https://www.audible.com/pd/Shoe-Dog-Audiobook/3960923945) (A)
+8. [~~Shoe Dog~~](https://www.audible.com/pd/Shoe-Dog-Audiobook/3960923945) (A)
 9. [~~Die Gefährten. Der Herr der Ringe 1~~](https://www.audible.com/search?keywords=Der+Herr+der+Ringe&ref=a_search_t1_header_search) (A)
 10. [~~Die zwei Türme. Der Herr der Ringe 2~~](https://www.audible.com/search?keywords=Der+Herr+der+Ringe&ref=a_search_t1_header_search) (A)
 11. [~~Die Wiederkehr des Königs. Der Herr der Ringe 3~~](https://www.audible.com/search?keywords=Der+Herr+der+Ringe&ref=a_search_t1_header_search) (A)
