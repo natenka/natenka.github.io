@@ -35,21 +35,22 @@ category:
 10. [The Python Journeyman](https://leanpub.com/python-journeyman) (K)
 11. [The Python Master](https://leanpub.com/python-master) (K)
 
-## На немецком (7/11)
+## На немецком (8/12)
 
 1. [~~Gute Geister~~](https://www.amazon.com/Gute-Geister-German-Kathryn-Stockett-ebook/dp/B004YHUBN6/) (A)
 2. [~~Der Marsianer~~](https://www.amazon.com/Marsianer-Roman-German-Andy-Weir-ebook/dp/B00KG5VKK8/) (A)
 3. [~~Ein gutes Omen~~](https://www.amazon.com/Ein-gutes-Omen-v%C3%B6llig-Hexen-Roman-ebook/dp/B009FYS17G/) (A)
 4. [Unverkäuflich!](https://www.amazon.com/Unverk%C3%A4uflich-Schulabbrecher-Fussballprofi-Weltunternehmer-Geschichte-ebook/dp/B0096RJ2G6/) (K)
 5. [Stolz und Vorurteil](https://www.amazon.com/Stolz-Vorurteil-Fischer-Klassik-German-ebook/dp/B071K333Y5/) (A)
-6. [Von der Erde zum Mond](https://www.audible.com/pd/Von-der-Erde-zum-Mond-Audiobook/B00TKND5CS) (A)
-7. [20.000 Meilen unter dem Meer](https://www.audible.com/pd/20000-Meilen-unter-dem-Meer-Audiobook/B00TVNWZ00) (A)
-8. [~~Shoe Dog~~](https://www.audible.com/pd/Shoe-Dog-Audiobook/3960923945) (A)
-9. [~~Die Gefährten. Der Herr der Ringe 1~~](https://www.audible.com/search?keywords=Der+Herr+der+Ringe&ref=a_search_t1_header_search) (A)
-10. [~~Die zwei Türme. Der Herr der Ringe 2~~](https://www.audible.com/search?keywords=Der+Herr+der+Ringe&ref=a_search_t1_header_search) (A)
-11. [~~Die Wiederkehr des Königs. Der Herr der Ringe 3~~](https://www.audible.com/search?keywords=Der+Herr+der+Ringe&ref=a_search_t1_header_search) (A)
+6. [~~Von der Erde zum Mond~~](https://www.audible.com/pd/Von-der-Erde-zum-Mond-Audiobook/B00TKND5CS) (A)
+7. [Reise um den Mond](https://www.audible.com/pd/Reise-um-den-Mond-Die-erste-Mondexpedition-Audiobook/B00TKTOPYE) (A)
+8. [20.000 Meilen unter dem Meer](https://www.audible.com/pd/20000-Meilen-unter-dem-Meer-Audiobook/B00TVNWZ00) (A)
+9. [~~Shoe Dog~~](https://www.audible.com/pd/Shoe-Dog-Audiobook/3960923945) (A)
+10. [~~Die Gefährten. Der Herr der Ringe 1~~](https://www.audible.com/search?keywords=Der+Herr+der+Ringe&ref=a_search_t1_header_search) (A)
+11. [~~Die zwei Türme. Der Herr der Ringe 2~~](https://www.audible.com/search?keywords=Der+Herr+der+Ringe&ref=a_search_t1_header_search) (A)
+12. [~~Die Wiederkehr des Königs. Der Herr der Ringe 3~~](https://www.audible.com/search?keywords=Der+Herr+der+Ringe&ref=a_search_t1_header_search) (A)
 
-## Всё остальное (16)
+## Всё остальное (17)
 
 1. [~~The Song of Achilles~~](https://www.amazon.com/Song-Achilles-Madeline-Miller-ebook/dp/B005FPWUSA/) (A)
 2. [~~Atomic Habits~~](https://www.amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B01N5AX61W/) (K or A)
@@ -70,6 +71,7 @@ category:
 17. [When Galaxies Collide](https://www.amazon.com/gp/product/052287651X/) (P)
 18. [~~A Life in Parts~~](https://www.amazon.com/Life-Parts-Bryan-Cranston-ebook/dp/B00V3KJZMK/) (A)
 19. [Kindred: Neanderthal Life, Love, Death and Art](https://www.amazon.com/Kindred-Neanderthal-Life-Love-Death-ebook/dp/B07YLYHBVF/) (K, A)
+20. ~~Sense and Sensibility~~ (A)
 
 
 
