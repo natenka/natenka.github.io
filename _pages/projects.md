@@ -10,6 +10,7 @@ share: true
 [Python для сетевых инженеров](https://natenka.github.io/pyneng/) - это:
 
 * [Книга "Python для сетевых инженеров"](https://pyneng.readthedocs.io/ru/latest/)
+* [Запись лекций](https://www.youtube.com/playlist?list=PLah0HUih_ZRnJFNdZsWr2pNWgYETauGXo)
 * [Задания к книге/курсу](https://github.com/natenka/pyneng-examples-exercises)
 * [Подборка ресурсов](https://natenka.github.io/pyneng-resources/)
 * [Онлайн курс](/pyneng-online/)
