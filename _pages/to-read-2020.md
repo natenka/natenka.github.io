@@ -35,13 +35,13 @@ category:
 10. [The Python Journeyman](https://leanpub.com/python-journeyman) (K)
 11. [The Python Master](https://leanpub.com/python-master) (K)
 
-## На немецком (10/12)
+## На немецком (11/13)
 
 1. [~~Gute Geister~~](https://www.amazon.com/Gute-Geister-German-Kathryn-Stockett-ebook/dp/B004YHUBN6/) (A)
 2. [~~Der Marsianer~~](https://www.amazon.com/Marsianer-Roman-German-Andy-Weir-ebook/dp/B00KG5VKK8/) (A)
 3. [~~Ein gutes Omen~~](https://www.amazon.com/Ein-gutes-Omen-v%C3%B6llig-Hexen-Roman-ebook/dp/B009FYS17G/) (A)
 4. [Unverkäuflich!](https://www.amazon.com/Unverk%C3%A4uflich-Schulabbrecher-Fussballprofi-Weltunternehmer-Geschichte-ebook/dp/B0096RJ2G6/) (K)
-5. [Stolz und Vorurteil](https://www.amazon.com/Stolz-Vorurteil-Fischer-Klassik-German-ebook/dp/B071K333Y5/) (A)
+5. [~~Stolz und Vorurteil~~](https://www.amazon.com/Stolz-Vorurteil-Fischer-Klassik-German-ebook/dp/B071K333Y5/) (A)
 6. [~~Von der Erde zum Mond~~](https://www.audible.com/pd/Von-der-Erde-zum-Mond-Audiobook/B00TKND5CS) (A)
 7. [~~Reise um den Mond~~](https://www.audible.com/pd/Reise-um-den-Mond-Die-erste-Mondexpedition-Audiobook/B00TKTOPYE) (A)
 8. ~~In 80 Tagen um die Welt~~
@@ -49,6 +49,7 @@ category:
 10. [~~Die Gefährten. Der Herr der Ringe 1~~](https://www.audible.com/search?keywords=Der+Herr+der+Ringe&ref=a_search_t1_header_search) (A)
 11. [~~Die zwei Türme. Der Herr der Ringe 2~~](https://www.audible.com/search?keywords=Der+Herr+der+Ringe&ref=a_search_t1_header_search) (A)
 12. [~~Die Wiederkehr des Königs. Der Herr der Ringe 3~~](https://www.audible.com/search?keywords=Der+Herr+der+Ringe&ref=a_search_t1_header_search) (A)
+13. [Artemis](https://www.audible.com/pd/Artemis-Audiobook/B079LSG4Q9) (A)
 
 ## Всё остальное (17)
 
