@@ -11,7 +11,7 @@ share: true
 | 05.09.20     | 05.12.20    | [Advanced Python для сетевых инженеров](/advanced-pyneng-online/) |
 | 16.01.21     | 24.04.21    | [Python для сетевых инженеров](/pyneng-online/)   |
 | 29.05.21     | 04.09.21    | [Python для сетевых инженеров](/pyneng-online/)   |
-
+| 11.09.21     | 11.12.21    | [Advanced Python для сетевых инженеров](/advanced-pyneng-online/) |
 
 ## Python для сетевых инженеров
 
