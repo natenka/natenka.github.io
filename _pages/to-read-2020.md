@@ -44,12 +44,12 @@ category:
 5. [~~Stolz und Vorurteil~~](https://www.amazon.com/Stolz-Vorurteil-Fischer-Klassik-German-ebook/dp/B071K333Y5/) (A)
 6. [~~Von der Erde zum Mond~~](https://www.audible.com/pd/Von-der-Erde-zum-Mond-Audiobook/B00TKND5CS) (A)
 7. [~~Reise um den Mond~~](https://www.audible.com/pd/Reise-um-den-Mond-Die-erste-Mondexpedition-Audiobook/B00TKTOPYE) (A)
-8. ~~In 80 Tagen um die Welt~~
+8. [~~In 80 Tagen um die Welt~~](https://www.audible.com/pd/In-80-Tagen-um-die-Welt-Audiobook/B00TOASFR3) (A)
 9. [~~Shoe Dog~~](https://www.audible.com/pd/Shoe-Dog-Audiobook/3960923945) (A)
 10. [~~Die Gefährten. Der Herr der Ringe 1~~](https://www.audible.com/search?keywords=Der+Herr+der+Ringe&ref=a_search_t1_header_search) (A)
 11. [~~Die zwei Türme. Der Herr der Ringe 2~~](https://www.audible.com/search?keywords=Der+Herr+der+Ringe&ref=a_search_t1_header_search) (A)
 12. [~~Die Wiederkehr des Königs. Der Herr der Ringe 3~~](https://www.audible.com/search?keywords=Der+Herr+der+Ringe&ref=a_search_t1_header_search) (A)
-13. [Artemis](https://www.audible.com/pd/Artemis-Audiobook/B079LSG4Q9) (A)
+13. [~~Artemis~~](https://www.audible.com/pd/Artemis-Audiobook/B079LSG4Q9) (A)
 
 ## Всё остальное (17)
 
