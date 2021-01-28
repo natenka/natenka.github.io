@@ -54,10 +54,7 @@ category:
 3. Проверка заданий тестами pyneng 1-5
 4. Если тесты проходят, смотрим варианты решения pyneng 1-5 -a
 
-Подробнее о том как работать с утилитой:
-
-* [Подготовка к работе с заданиями](https://pyneng.readthedocs.io/ru/latest/book/additional_info/pyneng_prepare.html)
-* [Проверка заданий с помощью утилиты pyneng](https://pyneng.readthedocs.io/ru/latest/book/additional_info/pyneng.html)
+[Подробнее о том как работать с утилитой](https://pyneng.readthedocs.io/ru/latest/book/additional_info/pyneng.html)
 
 
 ### Шаблон репозитория
