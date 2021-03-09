@@ -31,9 +31,6 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
-      {% if author.goodreads %}
-      <li><a href="https://www.amazon.com/hz/wishlist/ls/QCGBX64X40NQ?ref_=wl_share"><i class="fa fa-fw fa-book" aria-hidden="true"></i> Book Wishlist</a></li>
-      {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fa fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
