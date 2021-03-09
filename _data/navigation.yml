@@ -25,9 +25,9 @@ links:
   - title: <a href="https://www.patreon.com/bePatron?u=12246950" data-patreon-widget-type="become-patron-button">Patreon</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
   - title: Python для сетевых инженеров
     children:
-      - title: Книга Python для сетевых инженеров
+      - title: Книга
         url: /pyneng-book/
-      - title: Задать вопрос можно тут
+      - title: Задать вопрос
         url: https://join.slack.com/t/pyneng/shared_invite/enQtNzkyNTYwOTU5Njk5LWE4OGNjMmM1ZTlkNWQ0N2RhODExZDA0OTNhNDJjZDZlOTZhOGRiMzIyZjBhZWYzYzc3MTg3ZmQzODllYmQ4OWU
       - title: Подборка ресурсов
         url: /pyneng-resources/
@@ -43,9 +43,9 @@ links:
     children:
       - title: Book
         url: https://pyneng.readthedocs.io/en/latest/
-      - title: tasks and examples
+      - title: Tasks and examples
         url: https://github.com/natenka/pyneng-examples-exercises-en
-      - title: answers to tasks
+      - title: Answers to tasks
         url: https://github.com/natenka/pyneng-answers-en
       - title: Resource list
         url: /pyneng-resources-en/
