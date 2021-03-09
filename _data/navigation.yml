@@ -39,6 +39,16 @@ links:
       #  url: /100daysofpython/
       #- title: 100 Days Of Reading
       #  url: /100daysofreading/
+  - title: Python for network engineers
+    children:
+      - title: Book
+        url: https://pyneng.readthedocs.io/en/latest/
+      - title: tasks and examples
+        url: https://github.com/natenka/pyneng-examples-exercises-en
+      - title: answers to tasks
+        url: https://github.com/natenka/pyneng-answers-en
+      - title: Resource list
+        url: /pyneng-resources-en/
   - title: Personal links
     children:
       - title: Non-tech books
