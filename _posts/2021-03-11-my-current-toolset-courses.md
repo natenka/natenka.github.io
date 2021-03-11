@@ -14,7 +14,7 @@ category:
 * онлайн лекции: [FreeConferenceCall (FCC)](https://www.freeconferencecall.com/)
 * микрофон: [Blue Yeti](https://www.bluemic.com/en-us/products/yeti/)
 * слайды: формат [markdown](https://ru.wikipedia.org/wiki/Markdown), показ [lookatme](https://github.com/d0c-s4vage/lookatme) (раньше gitpitch)
-* показываю код: mRemoteNG, ipython, vim, tmux
+* показываю код: [mRemoteNG](https://mremoteng.org/), [ipython](https://ipython.org/), vim, [tmux](https://github.com/tmux/tmux/wiki)
 * запись лекций: [OBS](https://obsproject.com/ru), FCC как бекап, конвертация [HandBrake](https://handbrake.fr/)
 * общение на курсе: [slack](https://slack.com/)
 * таймер [Toggl](https://toggl.com/)
