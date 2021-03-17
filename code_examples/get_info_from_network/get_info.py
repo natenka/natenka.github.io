@@ -31,15 +31,33 @@ def ping_ip_addresses(ip_list, limit=5):
     return reachable, unreachable
 
 
+def dlink_get_hostname_sn(device):
+    with ConnectHandler(**device) as ssh:
+        ssh.enable()
+        output = ssh.send_command("...")
+
+        match_sn = re.search(r"...", output)
+        if match_sn:
+            sn = match_sn.group(1)
+        else:
+            sn = None
+
+        prompt = ssh.find_prompt()
+        hostname = re.search(r"...", prompt).group(1)
+    return (device["host"], hostname, sn)
+
+
 def cisco_get_hostname_sn(device):
     with ConnectHandler(**device) as ssh:
         ssh.enable()
         output = ssh.send_command("sh version")
+
         match_sn = re.search(r"Processor board ID (\S+)", output)
         if match_sn:
             sn = match_sn.group(1)
         else:
             sn = None
+
         prompt = ssh.find_prompt()
         hostname = re.search(r"(\S+)[>#]", prompt).group(1)
     return (device["host"], hostname, sn)
@@ -47,34 +65,63 @@ def cisco_get_hostname_sn(device):
 
 def get_host_sn_write_to_file(devices, filename, limit=10):
     with ThreadPoolExecutor(max_workers=limit) as executor:
-        results = executor.map(cisco_get_hostname_sn, devices)
+        future_list = []
+        for device in devices:
+            function = device.pop("function")
+            future = executor.submit(function, device)
+            future_list.append(future)
         with open(filename, "w") as f:
             wr = csv.writer(f)
-            wr.writerow("ip hostname serialnumber".split())
-            for output in results:
-                wr.writerow(output)
+            wr.writerow(["vendor", "ip", "hostname", "serial number"])
+            for device, f in zip(devices, future_list):
+                output = f.result()
+                vendor = device["device_type"]
+                wr.writerow([vendor, *output])
 
 
-def main():
-    # vendor_device_type_map = {
-    #     "Cisco": "cisco_ios"
-    # }
-    command = "sh ip int br"
-    with open("devices.csv") as f:
-        reader = csv.DictReader(f)
-        cisco_only = [row["ip"] for row in reader if row["vendor"] == "Cisco"]
-
+def collect_info_from_devices(devices_list, output_filename):
+    vendor_device_type_map = {
+        "Cisco": "cisco_ios",
+        "D-LINK": "dlink_ds",
+    }
+    vendor_function_map = {
+        "Cisco": cisco_get_hostname_sn,
+        "D-LINK": dlink_get_hostname_sn,
+    }
     base_params = {
         "username": "cisco",
         "password": "cisco",
         "secret": "cisco",
-        "device_type": "cisco_ios",
         "timeout": 10,
     }
-    reach, unreach = ping_ip_addresses(cisco_only)
+
+    devices = [
+        {
+            **base_params,
+            "host": device["ip"],
+            "device_type": vendor_device_type_map[device["vendor"]],
+            "function": vendor_function_map[device["vendor"]],
+        }
+        for device in devices_list
+    ]
+    get_host_sn_write_to_file(devices, output_filename)
+
+
+def main():
+    with open("devices.csv") as f:
+        reader = csv.DictReader(f)
+        netmiko_support = [
+            row for row in reader if row["vendor"] in ("Cisco", "D-LINK")
+        ]
+
+    # получаем список IP-адресов и проверяем доступность
+    check_ip = [dev["ip"] for dev in netmiko_support]
+    reach, unreach = ping_ip_addresses(check_ip)
     print(f"Недоступные адреса:\n{unreach}")
-    devices = [{**base_params, "host": ip} for ip in reach]
-    get_host_sn_write_to_file(devices, "cisco_params_results.csv")
+
+    # Подключение идет только к тем адресам, которые пингуются
+    reachable_devices = [dev for dev in netmiko_support if dev["ip"] in reach]
+    collect_info_from_devices(reachable_devices, "collected_params_results.csv")
 
 
 if __name__ == "__main__":
