@@ -3,6 +3,7 @@ import yaml
 import csv
 import netmiko
 import subprocess
+from platform import system as system_name
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import re
 
@@ -10,8 +11,10 @@ from netmiko import ConnectHandler
 
 
 def ping_ip(ip):
-    result = subprocess.run(["ping", "-c", "3", "-n", ip], stdout=subprocess.DEVNULL)
-    ip_is_reachable = result.returncode == 0
+    param = "-n" if system_name().lower() == "windows" else "-c"
+    command = ["ping", param, "3", ip]
+    reply = subprocess.run(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    ip_is_reachable = reply.returncode == 0
     return ip_is_reachable
 
 
@@ -68,8 +71,11 @@ def main():
         "device_type": "cisco_ios",
         "timeout": 10,
     }
-    devices = [{**base_params, "host": ip} for ip in cisco_only]
+    reach, unreach = ping_ip_addresses(cisco_only)
+    print(f"Недоступные адреса:\n{unreach}")
+    devices = [{**base_params, "host": ip} for ip in reach]
     get_host_sn_write_to_file(devices, "cisco_params_results.csv")
+
 
 if __name__ == "__main__":
     main()
