@@ -76,9 +76,9 @@ Ivan Pepelnjak:
 
 ## Книги
 
-* [Python для сетевых инженеров (Наташа Самойленко)](https://natenka.gitbook.io/pyneng/)
+* [(ru) Python для сетевых инженеров (Наташа Самойленко)](https://natenka.gitbook.io/pyneng/)
 * [Mastering Python Networking (Eric Chou)](https://www.packtpub.com/networking-and-servers/mastering-python-networking)
-* [Network Programmability and Automation. Skills for the Next-Generation Network Engineer](http://shop.oreilly.com/product/0636920042082.do)
+* [Network Programmability and Automation. Skills for the Next-Generation Network Engineer](http://shop.oreilly.com/product/0636920042082.do). Книга есть в переводе
 * [Network Automation at Scale](https://www.cloudflare.com/media/pdf/network-automation-at-scale.pdf)
 
 ## Live Stream, Youtube
@@ -127,7 +127,7 @@ YouTube каналы:
 ## Slack
 
 * [Network to code](https://networktocode.herokuapp.com/) - отличное сообщество в slack, где обсуждается всё, что касается программирования и автоматизации в сетях
-* [PyNEng](https://join.slack.com/t/pyneng/shared_invite/enQtNzkyNTYwOTU5Njk5LWE4OGNjMmM1ZTlkNWQ0N2RhODExZDA0OTNhNDJjZDZlOTZhOGRiMzIyZjBhZWYzYzc3MTg3ZmQzODllYmQ4OWU) - русскоязычное сообщество по тем же темам
+* [(ru) PyNEng](https://join.slack.com/t/pyneng/shared_invite/enQtNzkyNTYwOTU5Njk5LWE4OGNjMmM1ZTlkNWQ0N2RhODExZDA0OTNhNDJjZDZlOTZhOGRiMzIyZjBhZWYzYzc3MTg3ZmQzODllYmQ4OWU) - русскоязычное сообщество по тем же темам
 
 
 # Ресурсы по Python без привязки к сетевому оборудованию
@@ -141,13 +141,13 @@ YouTube каналы:
 
 ### Бесплатные курсы:
 
-* [Code Basics от Hexlet](https://ru.code-basics.com/languages/python)
-* [Программирование на Python](https://stepik.org/course/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-Python-67) - хороший русскоязычный курс по основам Python
+* [(ru) Code Basics от Hexlet](https://ru.code-basics.com/languages/python)
+* [(ru) Программирование на Python](https://stepik.org/course/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-Python-67) - хороший русскоязычный курс по основам Python
 * [MITx - 6.00.1x Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9) - очень хороший курс, много практических заданий, достаточно интенсивный (англ)
 * [Python: основы и применение](https://stepik.org/course/512/promo)
-* [Python от Computer Science Center](https://www.youtube.com/playlist?list=PLlb7e2G7aSpTTNp7HBYzCBByaE1h54ruW) - отличные видеолекции по Python
+* [(ru) Python от Computer Science Center](https://www.youtube.com/playlist?list=PLlb7e2G7aSpTTNp7HBYzCBByaE1h54ruW) - отличные видеолекции по Python
 * [Google's Python Class](https://developers.google.com/edu/python/?csw=1) - курс по основам Python от Google (англ)
-* [Курс языка Python и базовых алгоритмов и структур данных](https://github.com/Yorko/python_intro)
+* [(ru) Курс языка Python и базовых алгоритмов и структур данных](https://github.com/Yorko/python_intro)
 
 ### Платные курсы:
 
@@ -165,7 +165,7 @@ YouTube каналы:
 
 Среднего/продвинутого уровня:
 
-* [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features-ebook/dp/B0785Q7GSY) - отличный вариант для 2-3 книги по Python. В книге описываются различные аспекты Python и то как правильно использовать. Книга достаточно новая (конец 2017 года), в ней рассматривается Python 3.
+* [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features-ebook/dp/B0785Q7GSY) - отличный вариант для 2-3 книги по Python. В книге описываются различные аспекты Python и то как правильно использовать. Книга достаточно новая (конец 2017 года), в ней рассматривается Python 3. Есть перевод.
 * [Practices of the Python Pro](https://www.amazon.com/gp/product/1617296082/)
 * [Effective Python: 90 Specific Ways to Write Better Python (Effective Software Development Series)](https://www.amazon.com/gp/product/0134853989/) - книга полезных советов как лучше писать код.
 * [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/static/pythonds/index.html) - отличная книга по структурам данных и алгоритмам. Много примеров и домашних заданий. [На русском](http://aliev.me/runestone/)
