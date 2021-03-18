@@ -141,6 +141,7 @@ YouTube каналы:
 
 ### Бесплатные курсы:
 
+* [Code Basics от Hexlet](https://ru.code-basics.com/languages/python)
 * [Программирование на Python](https://stepik.org/course/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-Python-67) - хороший русскоязычный курс по основам Python
 * [MITx - 6.00.1x Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9) - очень хороший курс, много практических заданий, достаточно интенсивный (англ)
 * [Python: основы и применение](https://stepik.org/course/512/promo)
