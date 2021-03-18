@@ -47,13 +47,23 @@ category:
 
 ## На немецком
 
-3-4 книги прочитать, остальные можно аудио
+2-3 книги прочитать, остальные можно аудио
 
 1. [Unverkäuflich!](https://www.amazon.com/Unverk%C3%A4uflich-Schulabbrecher-Fussballprofi-Weltunternehmer-Geschichte-ebook/dp/B0096RJ2G6/) (K)
+2. [Ich bin Circe](https://www.audible.com/pd/Ich-bin-Circe-Audiobook/3837147258) (A)
+3. [Eat Pray Love. Eine Frau auf der Suche nach allem quer durch Italien, Indien und Indonesien](https://www.audible.com/pd/Eat-Pray-Love-Eine-Frau-auf-der-Suche-nach-allem-quer-durch-Italien-Indien-und-Indonesien-Audiobook/B00TNEFELY) (A)
+4. [Eine kurze Geschichte von fast allem](https://www.audible.com/pd/Eine-kurze-Geschichte-von-fast-allem-Audiobook/B01A8TOW8S) (A)
+5. [Mut zur Freiheit: Meine Flucht aus Nordkorea](https://www.audible.com/pd/Mut-zur-Freiheit-Audiobook/B016KYRVYW) (A)
+6. [Das Lied des Achill](https://www.audible.com/pd/Das-Lied-des-Achill-Audiobook/B086BKFJS8) (A)
+7. [Die 1%-Methode - Minimale Veränderung, maximale Wirkung (Atomic Habits)](https://www.audible.com/pd/Die-1-Methode-Minimale-Veraenderung-maximale-Wirkung-Audiobook/3844538453) (A)
+8. [Der Hobbit](https://www.audible.com/pd/Der-Hobbit-Audiobook/B00TJF0K5W) (A)
+9. [Die Geisha](https://www.audible.com/pd/Die-Geisha-Audiobook/B00TKNNQ8Q) (A)
 
 ## Всё остальное (17)
 
-* [The 4-Hour Work Week](https://www.amazon.com/4-Hour-Work-Week-Escape-Anywhere-ebook/dp/B006X0M2TS/) (K)
+* [Queens of the Conquest](https://www.audible.com/pd/Queens-of-the-Conquest-Audiobook/B0741GFXW3) (A)
+* [The Six Wives of Henry VIII](https://www.audible.com/pd/The-Six-Wives-of-Henry-VIII-Audiobook/B009PRIE2K) (A)
+* [Kindred: Neanderthal Life, Love, Death and Art](https://www.amazon.com/Kindred-Neanderthal-Life-Love-Death-ebook/dp/B07YLYHBVF/) (K, A)
 * [When Galaxies Collide](https://www.amazon.com/gp/product/052287651X/) (P)
 * [Project Hail Mary: A Novel by Andy Weir (Release date May 4, 2021)](https://www.amazon.com/gp/product/0593135202/) (PP)
 * [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/Working-Public-Making-Maintenance-Software-ebook/dp/B08BDGXVK9) (K)
@@ -61,13 +71,12 @@ category:
 * [Keep Going: 10 Ways to Stay Creative in Good Times and Bad](https://www.amazon.com/gp/product/B07GNWXTKV/) (K)
 * [SPQR: A History of Ancient Rome](https://www.amazon.com/SPQR-History-Ancient-Mary-Beard-ebook/dp/B014T9HKN2/) (K)
 * [Packing for Mars: The Curious Science of Life in the Void](https://smile.amazon.com/Packing-Mars-Curious-Science-Life-ebook/dp/B003YJEXUM/) (K)
-* [Kindred: Neanderthal Life, Love, Death and Art](https://www.amazon.com/Kindred-Neanderthal-Life-Love-Death-ebook/dp/B07YLYHBVF/) (K, A)
 * [Technical Blogging, 2nd Edition](https://www.amazon.com/Technical-Blogging-Amplify-Your-Influence/dp/1680506471/) (ORL)
 * [Collapse: How Societies Choose to Fail or Succeed](https://www.amazon.com/Collapse-Societies-Choose-Fail-Succeed/dp/B00P2QCN2U/) (A)
 * [My Life and Work (The Autobiography of Henry Ford)](https://www.amazon.com/My-Life-Work-Henry-Ford-ebook/dp/B06Y3KZ8YP/) (P)
 * [Neverwhere](https://www.amazon.com/Neverwhere-Authors-Preferred-Neil-Gaiman/dp/0062459082/) (P)
 * [On Writing](https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816/) (P)
-* [The Rational Optimist](https://www.amazon.com/Rational-Optimist-Prosperity-Evolves-P-s-ebook/dp/B003QP4BJM/) (K)
+* [~~The Rational Optimist~~](https://www.amazon.com/Rational-Optimist-Prosperity-Evolves-P-s-ebook/dp/B003QP4BJM/) (K)
 * [Are We Smart Enough to Know How Smart Animals Are?](https://www.amazon.com/Are-Smart-Enough-Know-Animals-ebook/dp/B016APOCRA/) (K)
 * [Originals: How Non-conformists Change the World](https://www.amazon.com/Originals-How-Non-conformists-Change-World-ebook/dp/B01626YWJ0/) (K)
 * [The Selfish Gene](https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science-ebook/dp/B01GI5F2FS/) (K)
@@ -88,5 +97,6 @@ category:
 * [Why We Sleep](https://www.amazon.com/Why-We-Sleep-Science-Dreams-ebook/dp/B06Y649387/) (A)
 * [Cosmos. Carl Sagan](https://www.amazon.com/gp/product/B004W0HZN4/) (K)
 * [Whiskey in a Teacup](https://www.amazon.com/Whiskey-Teacup-Reese-Witherspoon-ebook/dp/B07CRLZBRC/) (K)
+* [The 4-Hour Work Week](https://www.amazon.com/4-Hour-Work-Week-Escape-Anywhere-ebook/dp/B006X0M2TS/) (K)
 
 
