@@ -58,9 +58,14 @@ category:
 7. [Die 1%-Methode - Minimale Veränderung, maximale Wirkung (Atomic Habits)](https://www.audible.com/pd/Die-1-Methode-Minimale-Veraenderung-maximale-Wirkung-Audiobook/3844538453) (A)
 8. [Der Hobbit](https://www.audible.com/pd/Der-Hobbit-Audiobook/B00TJF0K5W) (A)
 9. [Die Geisha](https://www.audible.com/pd/Die-Geisha-Audiobook/B00TKNNQ8Q) (A)
+10. [Eine kurze Geschichte der Menschheit](https://www.audible.com/pd/Eine-kurze-Geschichte-der-Menschheit-Audiobook/B00TW3IDJQ) (A)
+11. [Nordische Mythen und Sagen](https://www.audible.com/pd/Nordische-Mythen-und-Sagen-Audiobook/B06XDH3J38) (A)
+12. [Tödliche Spiele: Die Tribute von Panem 1](https://www.audible.com/pd/Toedliche-Spiele-Audiobook/B00TLBQR7Y) (A)
+13. [Illuminati: Robert Langdon 1](https://www.audible.com/pd/Illuminati-Audiobook/B00TKMIXR6) (A)
 
 ## Всё остальное (17)
 
+* [How To: Absurd Scientific Advice for Common Real-World Problems](https://www.audible.com/pd/How-To-Audiobook/0525635688) (A)
 * [Queens of the Conquest](https://www.audible.com/pd/Queens-of-the-Conquest-Audiobook/B0741GFXW3) (A)
 * [The Six Wives of Henry VIII](https://www.audible.com/pd/The-Six-Wives-of-Henry-VIII-Audiobook/B009PRIE2K) (A)
 * [Kindred: Neanderthal Life, Love, Death and Art](https://www.amazon.com/Kindred-Neanderthal-Life-Love-Death-ebook/dp/B07YLYHBVF/) (K, A)
