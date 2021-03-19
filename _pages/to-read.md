@@ -63,16 +63,16 @@ category:
 12. [Tödliche Spiele: Die Tribute von Panem 1](https://www.audible.com/pd/Toedliche-Spiele-Audiobook/B00TLBQR7Y) (A)
 13. [Illuminati: Robert Langdon 1](https://www.audible.com/pd/Illuminati-Audiobook/B00TKMIXR6) (A)
 
-## Всё остальное (1/...)
+## Всё остальное (2/...)
 
 * [~~The Rational Optimist~~](https://www.amazon.com/Rational-Optimist-Prosperity-Evolves-P-s-ebook/dp/B003QP4BJM/) (K)
+* [~~Ready Player One~~](https://www.audible.com/pd/Ready-Player-One-Audiobook/B007PR4J4E) (A)
 * [How To: Absurd Scientific Advice for Common Real-World Problems](https://www.audible.com/pd/How-To-Audiobook/0525635688) (A)
 * [Queens of the Conquest](https://www.audible.com/pd/Queens-of-the-Conquest-Audiobook/B0741GFXW3) (A)
 * [The Six Wives of Henry VIII](https://www.audible.com/pd/The-Six-Wives-of-Henry-VIII-Audiobook/B009PRIE2K) (A)
 * [Kindred: Neanderthal Life, Love, Death and Art](https://www.amazon.com/Kindred-Neanderthal-Life-Love-Death-ebook/dp/B07YLYHBVF/) (K, A)
 * [Michael Jordan: The Life](https://www.amazon.com/Michael-Jordan-Life-Roland-Lazenby/dp/0316194778/) (P)
 * [When Galaxies Collide](https://www.amazon.com/gp/product/052287651X/) (P)
-* [Ready Player One](https://www.audible.com/pd/Ready-Player-One-Audiobook/B007PR4J4E) (A)
 * [Project Hail Mary: A Novel by Andy Weir (Release date May 4, 2021)](https://www.amazon.com/gp/product/0593135202/) (PP)
 * [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/Working-Public-Making-Maintenance-Software-ebook/dp/B08BDGXVK9) (K)
 * [Bad Blood](https://www.amazon.com/gp/product/B07BMCMS5L/) (A)
