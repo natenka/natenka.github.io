@@ -62,6 +62,7 @@ category:
 11. [Nordische Mythen und Sagen](https://www.audible.com/pd/Nordische-Mythen-und-Sagen-Audiobook/B06XDH3J38) (A)
 12. [Tödliche Spiele: Die Tribute von Panem 1](https://www.audible.com/pd/Toedliche-Spiele-Audiobook/B00TLBQR7Y) (A)
 13. [Illuminati: Robert Langdon 1](https://www.audible.com/pd/Illuminati-Audiobook/B00TKMIXR6) (A)
+14. [Das Vermächtnis der Drachenreiter (Eragon 1)](https://www.audible.com/pd/Das-Vermaechtnis-der-Drachenreiter-German-edition-Audiobook/B00TJGS8MI) (A)
 
 ## Всё остальное (2/...)
 
