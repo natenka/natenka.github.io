@@ -64,7 +64,7 @@ category:
 * [Engaging Students](https://www.cte.cornell.edu/teaching-ideas/engaging-students/index.html)
 * [Recommendations for implementing active learning in your classroom](https://cei.umn.edu/support-services/tutorials/what-active-learning/making-active-learning-work)
 * [Active Learning in Your Classroom](http://www.queensu.ca/connect/grad/2016/02/01/active-learning-in-your-classroom/)
-* [Promoting Active Learning](https://teachingcommons.stanford.edu/resources/learning-resources/promoting-active-learning)
+* [Promoting Active Learning](https://edubirdie.org/articles/active-learning-resources/)
 
 ### Student guides
 
