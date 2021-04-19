@@ -76,8 +76,6 @@ share: true
 
 ### Подкасты
 
-Серия подкастов [Поссиелки](http://linkmeup.ru/tag/%D0%BF%D0%BEccie%D0%BB%D0%BA%D0%B8/)
-
 Подкасты LinkMeUp с моим участием:
 
 * [LinkMeUp. Выпуск № 20. Xgu.ru и курсы по сетевым технологиям](http://linkmeup.ru/blog/148.html)
