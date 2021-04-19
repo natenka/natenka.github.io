@@ -6,7 +6,7 @@ share: true
 ---
 
 Главный нюанс этого курса в том, что он углубляется в Python, а не в автоматизацию
-сетевого оборудования. Будет полезен тем, кто много работает с Python и и хочет изучить
+сетевого оборудования. Будет полезен тем, кто много работает с Python и хочет изучить
 указанные темы.
 Если вы хотите углубиться в автоматизацию и соответственно изучать разные модули, API и 
 фреймворки для работы с сетевым оборудованием, посмотрите курсы в [списке ресурсов](https://natenka.github.io/pyneng-resources/).
@@ -47,7 +47,8 @@ share: true
 
 ## Книга "Advanced Python для сетевых инженеров"
 
-[Advanced Python для сетевых инженеров](https://advpyneng.readthedocs.io/)
+* [Advanced Python для сетевых инженеров](https://advpyneng.readthedocs.io/)
+* Почти половина тем [выложена как бонусные лекции](https://www.youtube.com/playlist?list=PLah0HUih_ZRmiZjBaTcECszqlRM8LlahR) на Youtube. Лекция по click [выложена в отдельном playlist](https://www.youtube.com/playlist?list=PLah0HUih_ZRkrS43bjaC8hxwQjcCZhNiM)
 
 ## Необходимое время
 
