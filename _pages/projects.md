@@ -30,6 +30,13 @@ share: true
 * Почти половина тем [выложена как бонусные лекции](https://www.youtube.com/playlist?list=PLah0HUih_ZRmiZjBaTcECszqlRM8LlahR) на Youtube. Лекция по click [выложена в отдельном playlist](https://www.youtube.com/playlist?list=PLah0HUih_ZRkrS43bjaC8hxwQjcCZhNiM)
 
 
+## Основы asyncio для сетевых инженеров
+
+* [Книга "Основы asyncio для сетевых инженеров"](https://asyncpyneng.readthedocs.io/ru/latest/) ещё в процесе написания
+* [Задания (17-18 разделы)](https://github.com/natenka/advpyneng-examples-exercises/tree/master/exercises)
+* [Сообщество в Slack](https://join.slack.com/t/pyneng/shared_invite/enQtNzkyNTYwOTU5Njk5LWE4OGNjMmM1ZTlkNWQ0N2RhODExZDA0OTNhNDJjZDZlOTZhOGRiMzIyZjBhZWYzYzc3MTg3ZmQzODllYmQ4OWU)
+* [Основы asyncio рассматриваются в онлайн курсе "Advanced Python для сетевых инженеров"](/advanced-pyneng-online/)
+
 ## Ansible для сетевых инженеров
 
 * [Книга "Ansible для сетевых инженеров"](https://ansible-for-network-engineers.readthedocs.io) ещё в процесе написания
