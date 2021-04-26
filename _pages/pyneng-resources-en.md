@@ -41,6 +41,14 @@ Kirk Byers:
 * [Python for Network Engineers](https://pynet.twb-tech.com/class.html)
 * [Ansible](https://pynet.twb-tech.com/class-ansible.html)
 
+John McGovern:
+
+* [Advanced Network Automation with Cisco and Python. CBT Nuggets](https://www.cbtnuggets.com/it-training/networking/network-automation-cisco-python)
+
+Ivan Pepelnjak:
+
+* [Network automation webinars](http://www.ipspace.net/Roadmap/Network_Automation_webinars)
+* [Ansible for Networking Engineers](http://www.ipspace.net/Ansible_for_Networking_Engineers)
 
 GNS3 Academy:
 
@@ -57,15 +65,9 @@ Udemy:
 * [Python for Network Engineers: Netmiko, NAPALM, pyntc, Telnet](https://www.udemy.com/python-for-network-engineers-netmiko-napalm-pyntc-telnet-ssh-automate/)
 * [Python Programming for Network Engineers: Cisco, Netmiko ++](https://www.udemy.com/python-programming-for-cisco-network-engineers/)
 
-Ivan Pepelnjak:
-
-* [Network automation webinars](http://www.ipspace.net/Roadmap/Network_Automation_webinars)
-* [Ansible for Networking Engineers](http://www.ipspace.net/Ansible_for_Networking_Engineers)
-
 Others:
 
 * [INE Python courses](https://my.ine.com/search?query=python&learningArea=Networking)
-* [Advanced Network Automation with Cisco and Python. CBT Nuggets](https://www.cbtnuggets.com/it-training/networking/network-automation-cisco-python)
 * [Network to Code](http://networktocode.com/products/training/)
 * [Network Automation using Python for Engineers (ehacking academy)](http://academy.ehacking.net/p/network-automation-python-engineers)
 
