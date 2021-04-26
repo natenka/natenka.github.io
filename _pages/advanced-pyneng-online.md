@@ -22,6 +22,13 @@ share: true
 * Python 3.8
 * Примеры будут, как и на [базовом курсе PyNEng](https://natenka.github.io/pyneng-online/), на сетевой тематике.
 
+### Материалы курса в свободном доступе
+
+* [Книга Advanced Python для сетевых инженеров](https://advpyneng.readthedocs.io/)
+* [Книга Основы asyncio для сетевых инженеров](https://asyncpyneng.readthedocs.io/ru/latest/)
+* [задания, примеры](https://github.com/natenka/advpyneng-examples-exercises)
+* Почти половина тем [выложена как бонусные лекции](https://www.youtube.com/playlist?list=PLah0HUih_ZRmiZjBaTcECszqlRM8LlahR) на Youtube. Лекция по click [выложена в отдельном playlist](https://www.youtube.com/playlist?list=PLah0HUih_ZRkrS43bjaC8hxwQjcCZhNiM)
+
 ## Расписание курса
 
 Всего в курсе 23 лекции:
@@ -44,11 +51,6 @@ share: true
 * курс очень интенсивный, поэтому задания можно делать не только во время курса, но и после
 * если во время курса обстоятельства сложились так, что вы не можете выделить время на учебу, можно перейти на следующий курс или учиться в своем темпе
 * после прохождения курса и получения сертификата, курс можно пройти второй раз бесплатно
-
-## Книга "Advanced Python для сетевых инженеров"
-
-* [Advanced Python для сетевых инженеров](https://advpyneng.readthedocs.io/)
-* Почти половина тем [выложена как бонусные лекции](https://www.youtube.com/playlist?list=PLah0HUih_ZRmiZjBaTcECszqlRM8LlahR) на Youtube. Лекция по click [выложена в отдельном playlist](https://www.youtube.com/playlist?list=PLah0HUih_ZRkrS43bjaC8hxwQjcCZhNiM)
 
 ## Необходимое время
 
