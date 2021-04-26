@@ -67,7 +67,7 @@ Udemy:
 
 Others:
 
-* [INE Python courses](https://my.ine.com/search?query=python&learningArea=Networking)
+* [INE Python courses](https://my.ine.com/search?query=python&Categories=Python%20Programming)
 * [Network to Code](http://networktocode.com/products/training/)
 * [Network Automation using Python for Engineers (ehacking academy)](http://academy.ehacking.net/p/network-automation-python-engineers)
 
