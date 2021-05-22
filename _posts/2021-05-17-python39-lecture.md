@@ -1,5 +1,5 @@
 ---
-title: "Лекция Что нового в Python 3.9"
+title: "Что нового в Python 3.9"
 date: 2021-05-17
 tags:
  - pyneng
