@@ -14,7 +14,8 @@ category:
 * [Flask Mega-Tutorial от Miguel Grinberg (англ)](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world). [Перевод Mega-Tutorial](https://habr.com/ru/post/346306/)
 * [Создание блога на Flask от Олега Молчанова](https://www.youtube.com/playlist?list=PLlWXhlUMyooZr5R2u2Zwxt6Pw6iwBo5y5)
 
-Cсылки покрывают плюс-минус тоже самое, так что можно выбрать тот формат, который больше нравится. Также полезно посматривать в документацию Flask.
+Cсылки покрывают плюс-минус тоже самое, так что можно выбрать тот формат,
+который больше нравится. Также полезно посматривать в [документацию Flask](https://flask.palletsprojects.com/en/2.0.x/).
 
 Платные курсы/книги:
 
