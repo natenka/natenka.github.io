@@ -16,6 +16,16 @@ category:
 
 Cсылки покрывают плюс-минус тоже самое, так что можно выбрать тот формат, который больше нравится. Также полезно посматривать в документацию Flask.
 
-Также рекомендую платный курс от TalkPython
-[Building Data-Driven Web Apps with Flask and SQLAlchemy Course](https://training.talkpython.fm/courses/explore_flask/building-data-driven-web-applications-in-python-with-flask-sqlalchemy-and-bootstrap).
-И конечно есть книга [Flask web development](https://learning.oreilly.com/library/view/flask-web-development/9781491991725/) от Miguel Grinberg.
+Платные курсы/книги:
+
+* TalkPython [Building Data-Driven Web Apps with Flask and SQLAlchemy Course](https://training.talkpython.fm/courses/explore_flask/building-data-driven-web-applications-in-python-with-flask-sqlalchemy-and-bootstrap).
+* [Udemy Python and Flask Bootcamp: Create Websites using Flask](https://www.udemy.com/course/python-and-flask-bootcamp-create-websites-using-flask/)
+* Книга [Flask web development](https://learning.oreilly.com/library/view/flask-web-development/9781491991725/) от Miguel Grinberg.
+
+
+Flask 2.0:
+
+* [TalkPython Episode #316: Flask 2.0](https://talkpython.fm/episodes/show/316/flask-2.0)
+* [Reddit discussion on Flask 2.0](https://www.reddit.com/r/Python/comments/msbt3p/flask_20_is_coming_please_help_us_test/)
+* [Why isn't Flask async](https://www.youtube.com/watch?v=bw1qeMoFBmw)
+
