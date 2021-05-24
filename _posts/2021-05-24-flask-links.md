@@ -16,8 +16,8 @@ Flask - это фреймворк для создания веб-приложе�
 
 Бесплатные курсы/статьи:
 
-* [Серия видео-лекций по Flask от Corey Schafer (англ)](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
 * [Flask Mega-Tutorial от Miguel Grinberg (англ)](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world). [Перевод Mega-Tutorial](https://habr.com/ru/post/346306/)
+* [Серия видео-лекций по Flask от Corey Schafer (англ)](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
 * [Создание блога на Flask от Олега Молчанова](https://www.youtube.com/playlist?list=PLlWXhlUMyooZr5R2u2Zwxt6Pw6iwBo5y5)
 
 Cсылки покрывают плюс-минус тоже самое, так что можно выбрать тот формат,
