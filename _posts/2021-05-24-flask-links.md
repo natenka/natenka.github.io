@@ -1,12 +1,18 @@
 ---
 title: "Ссылки на полезные ресурсы по Flask"
-date: 2021-05-31
+date: 2021-05-24
 tags:
  - pyneng
  - flask
 category:
  - pyneng
 ---
+
+Flask - это фреймворк для создания веб-приложений на Python.
+Я сочиняю курс по основам Flask для сетевиков, поэтому сейчас в стадии
+"вспомнить все" - слушаю/читаю разные материалы по Flask, чтобы загрузить забытое в мозг.
+
+Если вы знаете еще какие-то полезные ресурсы по Flask, делитесь.
 
 Бесплатные курсы/статьи:
 
@@ -29,4 +35,5 @@ Flask 2.0:
 * [TalkPython Episode #316: Flask 2.0](https://talkpython.fm/episodes/show/316/flask-2.0)
 * [Reddit discussion on Flask 2.0](https://www.reddit.com/r/Python/comments/msbt3p/flask_20_is_coming_please_help_us_test/)
 * [Why isn't Flask async](https://www.youtube.com/watch?v=bw1qeMoFBmw)
+
 
