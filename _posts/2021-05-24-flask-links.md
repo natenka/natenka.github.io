@@ -25,6 +25,7 @@ Cсылки покрывают плюс-минус тоже самое, так �
 
 Платные курсы/книги:
 
+* [Видео по Mega-Tutorial от Miguel Grinberg (англ)](https://courses.miguelgrinberg.com/p/flask-mega-tutorial)
 * TalkPython [Building Data-Driven Web Apps with Flask and SQLAlchemy Course](https://training.talkpython.fm/courses/explore_flask/building-data-driven-web-applications-in-python-with-flask-sqlalchemy-and-bootstrap).
 * [Udemy Python and Flask Bootcamp: Create Websites using Flask](https://www.udemy.com/course/python-and-flask-bootcamp-create-websites-using-flask/)
 * Книга [Flask web development](https://learning.oreilly.com/library/view/flask-web-development/9781491991725/) от Miguel Grinberg.
