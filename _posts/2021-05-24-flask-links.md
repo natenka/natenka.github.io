@@ -36,5 +36,5 @@ Flask 2.0:
 * [TalkPython Episode #316: Flask 2.0](https://talkpython.fm/episodes/show/316/flask-2.0)
 * [Reddit discussion on Flask 2.0](https://www.reddit.com/r/Python/comments/msbt3p/flask_20_is_coming_please_help_us_test/)
 * [Why isn't Flask async](https://www.youtube.com/watch?v=bw1qeMoFBmw)
-
+* [Some New Features in Flask 2.0](https://youtu.be/SMTf5UWlw1s)
 
