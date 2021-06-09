@@ -11,7 +11,6 @@ category:
 [asyncio](https://docs.python.org/3/library/asyncio.html) - asyncio is
 a library to write concurrent code using the async/await syntax.
 
-I've collected links to asyncio resources that I find useful.
 These are the resources that I have read/listened to and that I liked,
 but of course there are still a lot of resources that I have not watched
 or listened to. Almost all materials are in English.
