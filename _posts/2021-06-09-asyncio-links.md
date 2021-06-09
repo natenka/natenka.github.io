@@ -8,6 +8,9 @@ category:
  - pyneng
 ---
 
+[asyncio](https://docs.python.org/3/library/asyncio.html) - это библиотека для
+написания асинхронного кода с использованием синтаксиса async/await.
+
 Статьи:
 
 * [Async IO in Python: A Complete Walkthrough](https://realpython.com/async-io-python/)
@@ -26,3 +29,9 @@ category:
 
 * [Using Asyncio in Python: Understanding Python's Asynchronous Programming Features by Caleb Hattingh](https://www.amazon.com/Using-Asyncio-Python-Understanding-Asynchronous/dp/1492075337)
 * [Fluent Python, 2nd Edition (нужна подписка на O'Reilly Learning)](https://learning.oreilly.com/library/view/fluent-python-2nd/9781492056348/)
+
+
+Если выбрать что-то одно из бесплатных ресурсов:
+
+* почитать можно [Async IO in Python: A Complete Walkthrough](https://realpython.com/async-io-python/)
+* посмотреть/послушать [import asyncio: Learn Python's AsyncIO](https://www.youtube.com/playlist?list=PLhNSoGM2ik6SIkVGXWBwerucXjgP1rHmB)
