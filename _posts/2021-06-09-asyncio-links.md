@@ -8,8 +8,7 @@ category:
  - pyneng
 ---
 
-[asyncio](https://docs.python.org/3/library/asyncio.html) - asyncio is
-a library to write concurrent code using the async/await syntax.
+[asyncio](https://docs.python.org/3/library/asyncio.html) - asyncio is a library to write concurrent code using the async/await syntax.
 
 These are the resources that I have read/listened to and that I liked,
 but of course there are still a lot of resources that I have not watched
