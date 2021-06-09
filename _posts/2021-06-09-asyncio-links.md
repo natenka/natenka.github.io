@@ -28,7 +28,7 @@ Lectures:
 * [Advanced asyncio: Solving Real-world Production Problems](https://www.roguelynn.com/talks/advanced-asyncio/)
 * [Асинхронность в Python (Олег Молчанов)](https://www.youtube.com/playlist?list=PLlWXhlUMyooawilqK4lPXRvxtbYiw34S8)
 
-For those who want to dive into the topic inside and out - lectures from David Beazley (in no particular order):
+For those who want to dive into the topic - lectures from David Beazley (in no particular order):
 
 * [David Beazley -  Topics of Interest (Python Asyncio)](https://www.youtube.com/watch?v=ZzfHjytDceU)
 * [David Beazley, The Other Async (Threads + Async ❤)](https://www.youtube.com/watch?v=x1ndXuw7S0s)
