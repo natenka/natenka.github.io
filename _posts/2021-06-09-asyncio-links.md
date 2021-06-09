@@ -16,7 +16,7 @@ category:
 
 Видео:
 
-* [Miguel Grinberg Asynchronous Python for the Complete Beginner PyCon 2017](https://youtu.be/iG6fr81xHKA) - хороший вариант для старта в теме
+* [Miguel Grinberg Asynchronous Python for the Complete Beginner. PyCon 2017](https://youtu.be/iG6fr81xHKA) - хороший вариант для старта в теме
 * [import asyncio: Learn Python's AsyncIO](https://www.youtube.com/playlist?list=PLhNSoGM2ik6SIkVGXWBwerucXjgP1rHmB) - серия видео лекций про asyncio от Łukasz Langa (core developer Python, создатель black)
 * [Advanced asyncio: Solving Real-world Production Problems](https://www.roguelynn.com/talks/advanced-asyncio/)
 * [Асинхронность в Python (Олег Молчанов)](https://www.youtube.com/playlist?list=PLlWXhlUMyooawilqK4lPXRvxtbYiw34S8) - тут уже не только про asyncio, а про разные варианты асинхронности в Python
