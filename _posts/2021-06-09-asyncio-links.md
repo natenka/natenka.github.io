@@ -50,3 +50,9 @@ Other asyncio resources:
 * [RealPython](https://realpython.com/async-io-python/#articles)
 * [awesome-asyncio list](https://github.com/timofurrer/awesome-asyncio)
 
+Asyncio + network automation:
+
+* [asyncssh](https://asyncssh.readthedocs.io/en/latest/), [examples](https://github.com/natenka/pyneng-examples/tree/main/asyncio/asyncio02_libs/asyncssh)
+* [scrapli](https://carlmontanari.github.io/scrapli/user_guide/basic_usage/), [examples for asynchronous transport options](https://github.com/natenka/pyneng-examples/tree/main/asyncio/asyncio02_libs/scrapli)
+* [netdev](http://netdev.readthedocs.io/), [examples](https://github.com/natenka/pyneng-examples/tree/main/asyncio/asyncio02_libs/netdev)
+
