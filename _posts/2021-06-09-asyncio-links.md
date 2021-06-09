@@ -23,7 +23,16 @@ Lectures:
 * [import asyncio: Learn Python's AsyncIO by Łukasz Langa](https://www.youtube.com/playlist?list=PLhNSoGM2ik6SIkVGXWBwerucXjgP1rHmB)
 * [Advanced asyncio: Solving Real-world Production Problems](https://www.roguelynn.com/talks/advanced-asyncio/)
 * [Асинхронность в Python (Олег Молчанов)](https://www.youtube.com/playlist?list=PLlWXhlUMyooawilqK4lPXRvxtbYiw34S8)
-* [For those who want to dive into the topic inside and out - lectures from David Beazley](https://www.google.ru/search?newwindow=1&tbm=vid&sxsrf=ALeKk025RlsX9i96UvjyVbqL8KsYsVCTWw:1615708290896&q=David+Beazley+asyncio&sa=X&ved=2ahUKEwj85PS1pq_vAhUAAhAIHb6IANoQ8ccDKAV6BAgFEDg&biw=939&bih=999)
+
+For those who want to dive into the topic inside and out - lectures from David Beazley (in no particular order):
+
+* [David Beazley -  Topics of Interest (Python Asyncio)](https://www.youtube.com/watch?v=ZzfHjytDceU)
+* [David Beazley, The Other Async (Threads + Async ❤)](https://www.youtube.com/watch?v=x1ndXuw7S0s)
+* [Python Concurrency From the Ground Up: LIVE! - PyCon 2015](https://youtu.be/MCs5OvhV9S4)
+* [Generator: Tricks for Systems Programmers](http://www.dabeaz.com/generators-uk/)
+* [A Curious Course on Coroutines and Concurrency](https://www.youtube.com/watch?v=Z_OAlIhXziw)
+* [Generators: The Final Frontier](https://www.youtube.com/watch?v=D1twn9kLmYg)
+
 
 Paid resources:
 
