@@ -45,7 +45,7 @@ If you only had to choose one of the free resources:
 * read [Async IO in Python: A Complete Walkthrough](https://realpython.com/async-io-python/)
 * watch [import asyncio: Learn Python's AsyncIO](https://www.youtube.com/playlist?list=PLhNSoGM2ik6SIkVGXWBwerucXjgP1rHmB)
 
-Other asyncio resources:
+Other collections of asyncio resources:
 
 * [RealPython](https://realpython.com/async-io-python/#articles)
 * [awesome-asyncio list](https://github.com/timofurrer/awesome-asyncio)
