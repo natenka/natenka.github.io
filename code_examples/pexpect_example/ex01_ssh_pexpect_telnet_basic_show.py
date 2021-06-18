@@ -29,13 +29,13 @@ def send_show_command(host, username, password, enable_pass, command, prompt="#"
     return output.replace("\r\n", "\n")
 
 
-def collect_network_info(logins, ip_list):
+def collect_network_info(logins, ip_list, show_command):
     cmd_output = {}
     done = []
     for ip in ip_list:
         for login_dict in logins:
             try:
-                out = send_show_command(ip, **login_dict, command="sh ip int br")
+                out = send_show_command(ip, **login_dict, command=show_command)
                 pprint(out, width=120)
                 cmd_output[ip] = out
                 done.append(ip)
@@ -52,7 +52,7 @@ def collect_network_info(logins, ip_list):
             enable_password = getpass("Enable password: ")
             try:
                 out = send_show_command(
-                    ip, username, password, enable_password, command="sh ip int br"
+                    ip, username, password, enable_password, command=show_command
                 )
                 pprint(out, width=120)
                 done.append(ip)
@@ -79,5 +79,5 @@ if __name__ == "__main__":
     with open("ip_list.txt") as f:
         ip_list = f.read().strip().split("\n")
 
-    all_data = collect_network_info(logins, ip_list)
+    all_data = collect_network_info(logins, ip_list, show_command="sh ip int br")
     pprint(all_data, width=120)
