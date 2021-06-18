@@ -1,5 +1,6 @@
 from pprint import pprint
 import pexpect
+from getpass import getpass
 
 
 def send_show_command(host, username, password, enable_pass, command, prompt="#"):
@@ -28,25 +29,42 @@ def send_show_command(host, username, password, enable_pass, command, prompt="#"
 
 
 if __name__ == "__main__":
-    main_login = {
+    login = {
         "username": "cisco",
-        "password": "cisco",
+        "password": "ciscod",
         "enable_pass": "cisco"
     }
-    secondary_login = {
+    login_2 = {
         "username": "cisco",
-        "password": "cisco",
+        "password": "cisco2",
         "enable_pass": None
     }
+    login_3 = {
+        "username": "cisco",
+        "password": "cisco2",
+        "enable_pass": "cisco"
+    }
+    logins = [login, login_2, login_3]
+    done = []
+
     with open("ip_list.txt") as f:
         ip_list = f.read().strip().split("\n")
         for ip in ip_list:
-            try:
-                out = send_show_command(ip, **main_login, command="sh ip int br")
-                pprint(out, width=120)
-            except pexpect.exceptions.TIMEOUT as error:
+            for login_dict in logins:
                 try:
-                    out = send_show_command(ip, **secondary_login, command="sh ip int br")
+                    out = send_show_command(ip, **login_dict, command="sh ip int br")
+                    pprint(out, width=120)
+                    done.append(ip)
+                    break
+                except pexpect.exceptions.TIMEOUT as error:
+                    print("Не получилось подключиться")
+            if ip not in done:
+                print("Никакие варианты логина не сработали.\nПопробуйте ввести нужный логин/пароль руками:")
+                username = input("Username: ")
+                password = getpass("Password: ")
+                enable_password = getpass("Enable password: ")
+                try:
+                    out = send_show_command(ip, username, password, enable_password, command="sh ip int br")
                     pprint(out, width=120)
                 except pexpect.exceptions.TIMEOUT as error:
-                    print("Два варианта логина не сработали")
+                    print("Не получилось подключиться")
