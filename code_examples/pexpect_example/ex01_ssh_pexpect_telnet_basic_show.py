@@ -1,6 +1,7 @@
 from pprint import pprint
-import pexpect
 from getpass import getpass
+
+import pexpect
 
 
 def send_show_command(host, username, password, enable_pass, command, prompt="#"):
@@ -28,43 +29,55 @@ def send_show_command(host, username, password, enable_pass, command, prompt="#"
     return output.replace("\r\n", "\n")
 
 
-if __name__ == "__main__":
-    login = {
-        "username": "cisco",
-        "password": "ciscod",
-        "enable_pass": "cisco"
-    }
-    login_2 = {
-        "username": "cisco",
-        "password": "cisco2",
-        "enable_pass": None
-    }
-    login_3 = {
-        "username": "cisco",
-        "password": "cisco2",
-        "enable_pass": "cisco"
-    }
-    logins = [login, login_2, login_3]
+def collect_network_info(logins, ip_list):
+    cmd_output = {}
     done = []
+    for ip in ip_list:
+        for login_dict in logins:
+            try:
+                out = send_show_command(ip, **login_dict, command="sh ip int br")
+                pprint(out, width=120)
+                cmd_output[ip] = out
+                done.append(ip)
+                break
+            except pexpect.exceptions.TIMEOUT as error:
+                print(f"Не получилось подключиться к {ip}")
+        if ip not in done:
+            print(
+                f"Никакие варианты логина не сработали {ip}.\n"
+                f"Попробуйте ввести нужный логин/пароль руками:"
+            )
+            username = input("Username: ")
+            password = getpass("Password: ")
+            enable_password = getpass("Enable password: ")
+            try:
+                out = send_show_command(
+                    ip, username, password, enable_password, command="sh ip int br"
+                )
+                pprint(out, width=120)
+                done.append(ip)
+                cmd_output[ip] = out
+            except pexpect.exceptions.TIMEOUT as error:
+                print("Не получилось подключиться")
+    if len(done) == len(ip_list):
+        print("Получен вывод со всех устройств")
+    else:
+        print(
+            "Не удалось подключиться на такие устройства",
+            sorted(set(ip_list) - set(done)),
+        )
+
+    return cmd_output
+
+
+if __name__ == "__main__":
+    login = {"username": "cisco", "password": "cisco", "enable_pass": "cisco"}
+    login_2 = {"username": "cisco", "password": "cisco", "enable_pass": None}
+    login_3 = {"username": "cisco", "password": "cisco", "enable_pass": "cisco"}
+    logins = [login, login_2, login_3]
 
     with open("ip_list.txt") as f:
         ip_list = f.read().strip().split("\n")
-        for ip in ip_list:
-            for login_dict in logins:
-                try:
-                    out = send_show_command(ip, **login_dict, command="sh ip int br")
-                    pprint(out, width=120)
-                    done.append(ip)
-                    break
-                except pexpect.exceptions.TIMEOUT as error:
-                    print("Не получилось подключиться")
-            if ip not in done:
-                print("Никакие варианты логина не сработали.\nПопробуйте ввести нужный логин/пароль руками:")
-                username = input("Username: ")
-                password = getpass("Password: ")
-                enable_password = getpass("Enable password: ")
-                try:
-                    out = send_show_command(ip, username, password, enable_password, command="sh ip int br")
-                    pprint(out, width=120)
-                except pexpect.exceptions.TIMEOUT as error:
-                    print("Не получилось подключиться")
+
+    all_data = collect_network_info(logins, ip_list)
+    pprint(all_data, width=120)
