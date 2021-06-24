@@ -100,7 +100,9 @@ API и фреймворки для работы с сетевым оборудо
 * [Книга Advanced Python для сетевых инженеров](https://advpyneng.readthedocs.io/)
 * [Книга Основы asyncio для сетевых инженеров](https://asyncpyneng.readthedocs.io/ru/latest/)
 * [задания, примеры](https://github.com/natenka/advpyneng-examples-exercises)
-* Почти половина тем [выложена как бонусные лекции](https://www.youtube.com/playlist?list=PLah0HUih_ZRmiZjBaTcECszqlRM8LlahR) на Youtube. Лекция по click [выложена в отдельном playlist](https://www.youtube.com/playlist?list=PLah0HUih_ZRkrS43bjaC8hxwQjcCZhNiM)
+* Половина тем [выложена как бонусные лекции](https://www.youtube.com/playlist?list=PLah0HUih_ZRmiZjBaTcECszqlRM8LlahR) на Youtube.
+  И в отдельных playlist выложены лекции по [click](https://www.youtube.com/playlist?list=PLah0HUih_ZRkrS43bjaC8hxwQjcCZhNiM),
+  [namedtuple, dataclass](https://youtube.com/playlist?list=PLah0HUih_ZRnyfizwF6clCjbW8tyUC-Z4), [аннотация типов](https://youtube.com/playlist?list=PLah0HUih_ZRlrzKmbAwxyitvmXjCN4BM9)
 
 
 По этим материалам вполне можно самостоятельно учиться. И, как минимум, читая/смотря другие ресурсы,
