@@ -35,6 +35,27 @@ API и фреймворки для работы с сетевым оборудо
 Плюс можно бесплатно слушать лекции следующих курсов сколько угодно раз.
 Для advanced курса это особенно актуально, так как темы более сложные и легко забываются.
 
+
+## Темы курса
+
+На курсе рассматриваются такие темы:
+
+* Аннотация типов
+* Создание CLI интерфейса с click
+* Основы pytest
+* Модули logging, itertools, collections
+* Декораторы
+* ООП. Декораторы property, classmethod, staticmethod
+* ООП. Наследование, ABC, Mixin
+* Dataclass
+* Генераторы
+* Основы asyncio
+
+Подробнее темы курса можно посмотреть на [странице курса](https://natenka.github.io/advanced-pyneng-online/).
+А в книгах [Advanced Python для сетевых инженеров](https://advpyneng.readthedocs.io/ru/latest/) и
+[Основы asyncio для сетевых инженеров](https://asyncpyneng.readthedocs.io/ru/latest/index.html) можно посмотреть
+в каком объеме в целом будут рассматриваться эти темы.
+
 ## Материалы курса
 
 Основное это конечно лекции курса. Они проводятся по выходным и доступны как в онлайн формате,
@@ -62,26 +83,6 @@ API и фреймворки для работы с сетевым оборудо
 и хотя бы полгода поработать с Python.
 
 В идеале между базовым курсом и advanced должен быть год или больше работы с Python.
-
-## Темы курса
-
-На курсе рассматриваются такие темы:
-
-* Аннотация типов
-* Создание CLI интерфейса с click
-* Основы pytest
-* Модули logging, itertools, collections
-* Декораторы
-* ООП. Декораторы property, classmethod, staticmethod
-* ООП. Наследование, ABC, Mixin
-* Dataclass
-* Генераторы
-* Основы asyncio
-
-Подробнее темы курса можно посмотреть на [странице курса](https://natenka.github.io/advanced-pyneng-online/).
-А в книгах [Advanced Python для сетевых инженеров](https://advpyneng.readthedocs.io/ru/latest/) и
-[Основы asyncio для сетевых инженеров](https://asyncpyneng.readthedocs.io/ru/latest/index.html) можно посмотреть
-в каком объеме в целом будут рассматриваться эти темы.
 
 ## Запись на курс
 
