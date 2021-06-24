@@ -30,7 +30,9 @@ category:
 * ООП. Наследование, ABC, Mixin
 * Dataclass
 * Генераторы
-* Основы asyncio
+* Основы asyncio: основные понятия и интерфейс модуля
+* Асинхронные модули для подключения к оборудованию: asyncssh, netdev, scrapli
+* Использование asyncio: классы с асинхронными методами, декораторы для корутин, асинхронные генераторы и т.д.
 
 Подробнее темы курса можно посмотреть на [странице курса](https://natenka.github.io/advanced-pyneng-online/).
 А в книгах [Advanced Python для сетевых инженеров](https://advpyneng.readthedocs.io/ru/latest/) и
