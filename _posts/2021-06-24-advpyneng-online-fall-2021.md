@@ -102,4 +102,14 @@ API и фреймворки для работы с сетевым оборудо
 * [задания, примеры](https://github.com/natenka/advpyneng-examples-exercises)
 * Почти половина тем [выложена как бонусные лекции](https://www.youtube.com/playlist?list=PLah0HUih_ZRmiZjBaTcECszqlRM8LlahR) на Youtube. Лекция по click [выложена в отдельном playlist](https://www.youtube.com/playlist?list=PLah0HUih_ZRkrS43bjaC8hxwQjcCZhNiM)
 
+
+По этим материалам вполне можно самостоятельно учиться. И, как минимум, читая/смотря другие ресурсы,
+можно использовать задания из моего курса.
 Плюс в книгах есть ссылки на дополнительные материалы. И я отдельно собирала ссылки по [asyncio](https://natenka.github.io/pyneng/asyncio-links/).
+
+Лучший ресурс, который я знаю по темам курса - это книга Fluent Python. В целом, можно читать и первое издание,
+многие вещи не менялись в последних версиях Python, но можно дождаться и [второго издания книги](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1492056359/).
+Там многое изменилось, основное изменение в самом Python и как следствие в книге - модуль asyncio.
+
+> Второе издание Fluent Python уже доступно на O'Reilly Learning.
+
