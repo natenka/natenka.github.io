@@ -95,4 +95,4 @@ API и фреймворки для работы с сетевым оборудо
 * [задания, примеры](https://github.com/natenka/advpyneng-examples-exercises)
 * Почти половина тем [выложена как бонусные лекции](https://www.youtube.com/playlist?list=PLah0HUih_ZRmiZjBaTcECszqlRM8LlahR) на Youtube. Лекция по click [выложена в отдельном playlist](https://www.youtube.com/playlist?list=PLah0HUih_ZRkrS43bjaC8hxwQjcCZhNiM)
 
-
+Плюс в книгах есть ссылки на дополнительные материалы. И я отдельно собирала ссылки по [asyncio](https://natenka.github.io/pyneng/asyncio-links/).
