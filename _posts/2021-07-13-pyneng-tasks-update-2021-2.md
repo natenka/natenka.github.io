@@ -7,10 +7,13 @@ category:
  - pyneng
 ---
 
+В [репозитории](https://github.com/natenka/pyneng-examples-exercises) с заданиями к [курсу](https://www.youtube.com/playlist?list=PLah0HUih_ZRnJFNdZsWr2pNWgYETauGXo)/[книге](https://pyneng.readthedocs.io/) "Python для сетевых инженеров" сделано несколько изменений.
+
 > [Предыдущее обновление](https://natenka.github.io/pyneng/pyneng-tasks-update-2021/)
 
+### The English version of the tasks has also been updated
 
-В [репозитории](https://github.com/natenka/pyneng-examples-exercises) с заданиями к [курсу](https://www.youtube.com/playlist?list=PLah0HUih_ZRnJFNdZsWr2pNWgYETauGXo)/[книге](https://pyneng.readthedocs.io/) "Python для сетевых инженеров" сделано несколько изменений.
+The English version of the tasks has also been updated, [more details here](https://github.com/natenka/pyneng-examples-exercises-en/blob/main/CHANGELOG/2021_07_13.md).
 
 ### Обновление заданий и тестов
 
