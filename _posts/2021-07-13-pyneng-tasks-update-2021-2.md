@@ -26,7 +26,6 @@ The English version of the tasks has also been updated, [more details here](http
 * удалено задание: 15.2a
 * Обновлен файл pyneng_common_functions.py в каталоге exercises
 
-
 Если вы уже делаете задания, можно клонировать репозиторий с заданиями локально и затем вручную скопировать
 обновленные каталоге себе. Второй вариант - создать новый репозиторий, как написано ниже и скопировать решенные задания
 в новый репозиторий.
@@ -34,6 +33,13 @@ The English version of the tasks has also been updated, [more details here](http
 В любом случае, лучше использовать новую версию, так как там исправлены ошибки/неточности и улучшены тесты.
 
 > Не забудьте скопировать файл pyneng_common_functions.py в каталоге exercises.
+
+После обновления заданий, тестов и файла pyneng_common_functions.py, надо обновить модуль pytest-clarity:
+
+```
+pip install -U pytest-clarity
+```
+
 
 ### Обновлена утилита для проверки заданий - pyneng
 
