@@ -30,7 +30,6 @@ permalink: /about/
 Я всегда рада обратной связи, так что если захотите рассказать о том, как курс или книга
 "Python для сетевых инженеров" помогла лично Вам, с удовольствием почитаю об этом.
 
-
 Мои контакты:
 
 * email: nataliya.samoylenko@gmail.com
@@ -38,6 +37,8 @@ permalink: /about/
 * [Facebook](https://www.facebook.com/samoylenko.natasha)
 * [Twitter](https://twitter.com/natenka_says)
 * [Linkedin](https://www.linkedin.com/in/nsamoylenko)
+
+Также вы можете поддержать меня на [Patreon](https://patreon.com/natenka).
 
 ### Немного истории
 
